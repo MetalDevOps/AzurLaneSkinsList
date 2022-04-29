@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "40 * * * *"
 
+env:
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
 jobs:
   skins:
     runs-on: ubuntu-latest
