@@ -1,0 +1,4776 @@
+100000 - Universal Bulin
+100001 - Universal Enhanced Rigging (Experimental) +α
+100010 - Prototype Bulin MKII
+100020 - Specialized Bulin Custom MKIII
+101020 - Dewey
+101021 - Summer Longing
+101022 - A Christmas Thank-You
+101030 - Cassin
+101031 - Shopping Carte Blanche
+101039 - Cassin (Retrofit)
+101040 - Downes
+101041 - Part-Time Bomber
+101049 - Downes (Retrofit)
+101050 - Gridley
+101051 - Christmas Photoshoot
+101060 - Craven
+101061 - Cheerleader On The Playground
+101070 - McCall
+101080 - Maury
+101090 - Fletcher
+101110 - Charles Ausburne
+101120 - Thatcher
+101130 - Aulick
+101140 - Foote
+101150 - Spence
+101160 - Benson
+101161 - Cutie Pumpkin Pie 
+101170 - Laffey
+101172 - Snow Rabbit and Candy Apple
+101173 - White Rabbit Welcomes the Spring
+101174 - Bunny Clerk?
+101175 - Picnic Adventure?
+101176 - Bunny Idol @Unmotivated
+101177 - Sleep to Clean Another Day
+101178 - White Rabbit's Oath
+101179 - Laffey (Retrofit)
+101240 - Sims
+101249 - Sims (Retrofit)
+101250 - Hammann
+101251 - Rebellious Summer
+101252 - Prideful Fairy of the Ballroom
+101253 - Hammanyan Pawnch!
+101254 - Holy Night Surprise!
+101259 - Hammann (Retrofit)
+101260 - Eldridge
+101261 - Holy Night's Embrace
+101262 - The Inquisitive Recluse
+101263 - New Year's Outing
+101264 - Kitty Idol
+101265 - Moon Festival Spacewalk
+101270 - Bailey
+101271 - Trickster Black Rabbit
+101279 - Bailey (Retrofit)
+101290 - Radford
+101291 - Sweet Magic!
+101300 - Jenkins
+101301 - Light of the Holiest Star
+101310 - Nicholas
+101311 - Nurse Nicholas
+101312 - Surprise!?
+101313 - Summer Cleaning \"Volunteer\"
+101314 - After-School Promise
+101319 - Nicholas (Retrofit)
+101330 - Bush
+101331 - Budding Painter
+101340 - Hazelwood
+101350 - Bache
+101351 - Gorgeous Speed-star
+101352 - Showy Sports Star
+101360 - Hobby
+101361 - Little Idol Schoolgirl
+101370 - Kalk
+101371 - Snow Fairy Schoolgirl
+101380 - Kimberly
+101382 - Style of the East
+101390 - Mullany
+101392 - Eastern Etiquette
+101400 - Aylwin
+101401 - Sunday Aquarium Visit
+101410 - Stanly
+101420 - Smalley
+101421 - Candy Courier
+101430 - Halsey Powell
+101431 - Spring's Lucky Star
+101440 - Cooper
+101441 - Blazing Tennis Battle
+101442 - Heartwarming Holiday Hearth
+101450 - Allen M. Sumner
+101451 - Charming Rabbit
+101460 - Stephen Potter
+101461 - Chillaxation Station
+101470 - Morrison
+101471 - Sleeping Bunny
+101480 - Ingraham
+101481 - Fixin' for a Mixin'
+101490 - Bristol
+101491 - Tales from the Empery
+102010 - Omaha
+102020 - Raleigh
+102030 - Brooklyn
+102040 - Phoenix
+102050 - Helena
+102051 - New Year's Bluebird
+102052 - May I Have this Dance?
+102059 - Helena (Retrofit)
+102060 - Atlanta
+102070 - Juneau
+102080 - San Diego
+102081 - Sandy Claus
+102088 - No. 1 June Bride!
+102089 - San Diego (Retrofit)
+102090 - Cleveland
+102091 - Reaper Fever
+102092 - Gentry Knight
+102093 - Road Trip!
+102094 - New Year's Challenge!
+102098 - Heartfelt Moment
+102100 - Columbia
+102101 - After-School Odette
+102102 - Across the Vast Prairies
+102110 - Richmond
+102120 - Honolulu
+102121 - Umbrella Girl
+102122 - Summer Accident?!
+102123 - Manjuu Mischief
+102124 - Among the Stalls
+102130 - St. Louis
+102131 - Blue and White Pottery
+102132 - Spirits in the Snow
+102133 - Luxurious Wheels
+102140 - Montpelier
+102141 - Flower of the Snowy Night
+102142 - Persephone's Throne
+102150 - Denver
+102160 - Memphis
+102161 - Casual Vacation
+102162 - Mystical Night
+102163 - A Breath of Fresh Air
+102180 - Concord
+102181 - Red Apple Candy
+102182 - Sweet☆Christmas
+102190 - Lena
+102200 - Clevelad
+102210 - Li'l Sandy
+102220 - San Juan
+102221 - The Longing Princess
+102230 - Birmingham
+102231 - Rider of Red
+102232 - Fruitful Snow of an Auspicious Year
+102240 - Cleveland μ
+102250 - Biloxi
+102251 - Dapper Gangstress
+102252 - Empress in the Silk Seat
+102253 - Night Sky's Brilliant Blue Blossoms
+102260 - Reno
+102261 - Biggest Little Cheerleader
+102262 - Summer Spin-off
+102263 - Reno Bunnino
+102264 - Spring's Inspiration
+102270 - Marblehead
+102271 - Boxing Girl!
+102272 - Charmer in the Snowy Reflection
+102273 - Moongazing on the 29½th
+102290 - Boise
+102291 - Sheepish Sapphire
+102292 - Castle Tales
+103010 - Pensacola
+103020 - Salt Lake City
+103030 - Northampton
+103040 - Chicago
+103050 - Houston
+103060 - Portland
+103061 - At School With Indy!
+103069 - Portland (Retrofit)
+103070 - Indianapolis
+103071 - At School With My Sister...
+103072 - The Light of Circle City
+103080 - Astoria
+103081 - Pure \"Gurl?\"
+103082 - Black Bunny Carnival
+103090 - Quincy
+103091 - Sizzling Summer, Brisk Breeze
+103100 - Vincennes
+103101 - Sweet Dreams
+103102 - Leisurely ABC's
+103110 - Wichita
+103111 - The General's Banquet
+103112 - Domineering Witchita 
+103120 - New Orleans
+103121 - Evening Agricole
+103130 - Minneapolis
+103131 - Wild Huntress Schoolgirl
+103132 - eXtreme Games
+103133 - Holy Night Ride
+103138 - Trapper White
+103140 - San Francisco
+103141 - Funny Bunny!
+103160 - Baltimore
+103161 - After-School Ace
+103162 - Black Ace
+103163 - Evening Breeze Minuet
+103164 - Ace's Travel Journal
+103240 - Bremerton
+103241 - Scorching-Hot Training
+103242 - Kung Fu Cruiser
+103243 - Day-Off Date
+103250 - Baltimore μ
+105010 - Nevada
+105019 - Nevada (Retrofit)
+105020 - Oklahoma
+105029 - Oklahoma (Retrofit)
+105030 - Pennsylvania
+105031 - The Keystone General
+105040 - Arizona
+105041 - Enchantress from Afar
+105070 - Tennessee
+105080 - California
+105090 - Colorado
+105092 - Traveling Melody
+105100 - Maryland
+105110 - West Virginia
+105120 - North Carolina
+105121 - The Heart's Desire
+105130 - Washington
+105140 - South Dakota
+105141 - Solo Concert
+105170 - New Jersey
+105171 - Exhilarating Steps!
+105190 - Massachusetts
+105191 - Dressed to Impress
+105200 - Alabama
+106010 - Long Island
+106011 - Long Island - Indoor Slacker
+106013 - Long Island's Spooky Stream
+106019 - Long Island (Retrofit)
+106020 - Bogue
+106029 - Bogue (Retrofit)
+106550 - Casablanca
+106551 - Cheer Squad on Break
+107010 - Langley
+107019 - Langley (Retrofit)
+107020 - Lexington
+107021 - The Beauty of Spring
+107030 - Saratoga
+107031 - Seven Seas of Rest
+107032 - Hibiscus-scented Idol
+107033 - Virtual Idol
+107034 - Superstar of the Blue Seas
+107035 - Silent Night Songstress
+107036 - Spring's Opening Act!
+107037 - The Sweetest Picnic!
+107039 - Saratoga (Retrofit)
+107040 - Ranger
+107049 - Ranger (Retrofit)
+107050 - Yorktown
+107051 - Evening I Can't Remember
+107052 - Saintly Wings
+107060 - Enterprise
+107061 - Reindeer Master
+107062 - Blooming Peony
+107063 - Anniversary Ride
+107064 - Soaring Wings of Freedom
+107065 - Heroic Finery
+107066 - Wind Catcher
+107067 - Bon Voyage
+107068 - Starlight Oath
+107070 - Hornet
+107071 - Bubbly Anniversary!
+107072 - Freshly-Baked Bonding!
+107080 - Wasp
+107090 - Essex
+107091 - A Trip Down Route 66
+107092 - Craft Fairytail
+107093 - Brush and Ink
+107110 - Intrepid
+107111 - One Intrepid Pitch
+107140 - Ticonderoga
+107141 - Show Stopper!
+107170 - Bunker Hill
+107171 - Mission Relaxation
+107220 - Independence
+107221 - Transfer Student From Afar
+107222 - The Independent Line
+107223 - Liberty and Leisure
+107224 - The Tailwind of Opportunity
+107229 - Independence (Retrofit)
+107230 - Princeton 
+107231 - Seaside Training 
+107232 - Lolipop Paradise
+107290 - Bataan
+107291 - Comfy Cotton Jammies
+107380 - Shangri-La
+107381 - Utopia's Collector
+107382 - Explorer of the Lost World
+107990 - Little Enterprise
+108010 - Dace
+108020 - Albacore
+108021 - Beneath the Black Dress
+108022 - A Catty Surprise!
+108030 - Cavalla
+108031 - Convenience Store Raid!
+108032 - Colorful Ceremony
+108040 - Bluegill
+108041 - Up-And-Coming Infielder
+108050 - Albacore μ
+108060 - Archerfish
+108061 - Coquettish Bunny
+108062 - The Devil Next Door
+108070 - Nautilus
+108071 - Afternoon Stretches
+112010 - Vestal
+112011 - Revigorating Hestia
+137030 - Cup Ramen Ambassador?
+199010 - Seattle
+199011 - Gorgeous Party
+199012 - Christmas Party Prep!
+199013 - Sunfish Spell!
+199020 - Georgia
+199021 - South Town Pearl
+199022 - Lanier Swan
+199023 - Exalted Vibrance
+199030 - Anchorage
+201010 - Amazon
+201011 - Little Orchestra
+201019 - Amazon (Retrofit)
+201020 - Acasta
+201021 - Fashionable Outing
+201022 - Lights of the Lantern Festival
+201023 - Monochromatic Marvel
+201029 - Acasta (Retrofit)
+201030 - Ardent
+201031 - Ardent Valentine
+201032 - Master Ardent?
+201039 - Ardent (Retrofit)
+201060 - Beagle
+201070 - Bulldog
+201080 - Comet
+201089 - Comet (Retrofit)
+201090 - Crescent
+201099 - Crescent (Retrofit)
+201100 - Cygnet
+201101 - Sea Star on Shore
+201102 - Holy Night's Hymn
+201103 - Winter Date
+201104 - An Offer To Be Maid
+201105 - Royal Fanfare
+201109 - Cygnet (Retrofit)
+201110 - Foxhound
+201119 - Foxhound (Retrofit)
+201120 - Fortune
+201121 - Seraphic Sunshine
+201129 - Fortune (Retrofit)
+201130 - Grenville
+201140 - Glowworm
+201141 - Jokey Adjudicator
+201160 - Hardy
+201200 - Hunter
+201210 - Javelin
+201212 - Beach Picnic!
+201213 - Let's Become Waitresses!
+201214 - Slow Ahead!
+201215 - Operation: Pillow Fight!
+201216 - Energetic Idol @120% Motivation!
+201218 - Blissful Purity
+201219 - Javelin (Retrofit)
+201220 - Juno
+201221 - Fairly Flavourful Festival
+201230 - Vampire
+201231 - The Breath of Spring
+201232 - Little Devil in White
+201233 - Night Princess's Regalia
+201234 - Night Princess Idol
+201238 - Eloi's Blessing
+201240 - Jupiter
+201241 - Fanclub Sleepover
+201250 - Jersey
+201260 - Matchless
+201261 - Escort Me Please!
+201270 - Musketeer
+201290 - Echo
+201320 - Eskimo 
+201321 - Parkaless Prankster
+201330 - Icarus 
+201331 - One-Week Medical Experience? 
+201332 - Nereid's Discovery
+201333 - At Your Service
+202010 - Leander
+202019 - Leander (Retrofit)
+202020 - Achilles
+202029 - Achilles (Retrofit)
+202030 - Ajax
+202031 - Party Queen
+202032 - Valentine's Reward?
+202039 - Ajax (Retrofit)
+202040 - Dido
+202041 - Anxious Bisque Doll
+202070 - Southampton
+202071 - New Year's Little Knight
+202072 - Afternoon Impromptu
+202080 - Sheffield
+202081 - Cloak and Dagger
+202082 - A Moment's Respite
+202083 - Black Crow's Finery
+202100 - Gloucester
+202101 - Brilliance in Purple
+202110 - Edinburgh
+202111 - The Library Fairy
+202112 - Candy Maid
+202120 - Belfast
+202121 - Iridescent Rosa
+202122 - Serene Steel
+202123 - The Noble Attendant
+202124 - Shopping with the Head Maid
+202125 - Piping-Hot Perfection
+202126 - Folded Fascination
+202128 - The Pledge of Claddagh
+202130 - Arethusa
+202140 - Galatea
+202150 - Aurora
+202151 - The Tale of Spring
+202152 - Dawn's Paean
+202153 - Heritage of Yu City
+202158 - Garb of Eternal Prosperity
+202160 - Fiji
+202161 - Trendy and Vogue?
+202170 - Jamaica
+202171 - Dark Bolt
+202172 - Highway Star
+202180 - Little Bel
+202190 - Newcastle
+202191 - Hibiscus Garments
+202199 - Newcastle (Retrofit)
+202200 - Sirius
+202201 - White Rose
+202202 - Scorching-Hot Seirios
+202203 - Azure Horizons
+202210 - Curacoa
+202211 - Eastern Grace
+202219 - Curacoa (Retrofit)
+202220 - Curlew
+202221 - Rhythm of the Dragon Empery
+202229 - Curlew (Retrofit)
+202230 - Swiftsure
+202231 - Study Hall Cyclamen
+202232 - Beauty of White Jade
+202233 - Midsummer Special Service
+202240 - Black Prince
+202241 - White Princess
+202242 - Fair Maid Spring
+202243 - Pop the Cork
+202244 - Addled Attendant?
+202250 - Sheffield μ
+202260 - Glasgow
+202261 - A Maid in Class
+202270 - Hermione 
+202271 - Pure White Angel
+202272 - Pure White Holiday
+202273 - Graceful Afternoon Tea
+202274 - Pristine Herbalist
+202280 - Dido µ
+202290 - Penelope
+202291 - Ruby-Red Boudoir
+202292 - Salty Maid
+202300 - Charybdis
+202301 - Red Chamber of Healing
+203010 - London
+203019 - London (Retrofit)
+203020 - Shropshire
+203030 - Kent
+203040 - Suffolk
+203049 - Suffolk (Retrofit)
+203050 - Norfolk
+203060 - Dorsetshire
+203070 - York
+203071 - Truth Seeker
+203072 - Summoner from the Azure Depths 
+203078 - Oath of Purity
+203079 - York (Retrofit)
+203080 - Exeter
+203081 - A Glorious Toast
+203089 - Exeter (Retrofit)
+203090 - Sussex
+203091 - Sunlit Tulips
+203092 - Wine and Red Roses
+204010 - Renown
+204020 - Repulse
+204030 - Hood
+204031 - Lady of the Shining Sun
+204032 - Porcelain Grace
+204033 - Dawnlight's Dame
+204038 - Rosey Love Poem
+204040 - Little Renown
+205010 - Queen Elizabeth
+205011 - The Queen's Ball
+205012 - One Night of the Queen
+205013 - Queen of the Campus
+205014 - Crown Jewel of the Royal Navy
+205015 - Yes, Your Maidness!
+205020 - Warspite
+205021 - Christmas Warrior
+205022 - Under Pleasure
+205029 - Warspite (Retrofit)
+205030 - Nelson
+205031 - Luna Witch
+205040 - Rodney
+205041 - Future Seaside Admiral
+205043 - Immaculate Beauty
+205048 - Palace of Blessings
+205050 - King George V
+205051 - Rose's Regalia
+205060 - Prince of Wales
+205061 - Sun Shining Upon Windsor
+205062 - Sakura Elegance
+205064 - The Laureate's Victory Lap
+205070 - Duke of York
+205072 - Eternal Night's Carola
+205073 - Prestige of the Glorious Formula
+205090 - Howe 
+205091 - Noble Rouge
+205092 - Pastry Princess
+205100 - Valiant 
+205101 - Mischievous Little Nurse
+205102 - Queen Valiant I
+206010 - Hermes
+206019 - Hermes (Retrofit)
+206030 - Unicorn
+206031 - Little Star Songstress
+206032 - The Gift of Spring
+206033 - Long-Awaited Date
+206034 - Prayer of Plum and Snow
+206035 - Angelic Night
+206036 - Icy-Sweet Storytime
+206038 - A Dream of Pure Vows
+206040 - Centaur
+206041 - Beachside Undine
+206042 - Sprightly Spring Wind
+206050 - Chaser
+206051 - The Way of the Dragon Empery
+206052 - Gamer Style
+206060 - Perseus 
+206061 - Unfamiliar Duties
+207010 - Eagle 
+207011 - Eagle's Clinic
+207020 - Ark Royal
+207021 - Coast Watcher
+207022 - Guardian of the Ball
+207023 - New Year's Protectress
+207028 - Pure-White Protector
+207029 - Ark Royal (Retrofit)
+207030 - Illustrious
+207031 - Never-Ending Tea Party
+207032 - Illustrious Ball
+207033 - Resplendent Hibiscus
+207035 - Maiden Lily's Radiance
+207038 - Morning Star of Love and Hope
+207040 - Victorious
+207041 - The Goddess' Day Off
+207042 - Guidance of the Spring Goddess
+207050 - Formidable
+207051 - The Lady of the Beach
+207052 - Timeless Classics
+207060 - Glorious
+207061 - Glorious School Life
+207062 - Pungent Plum
+207090 - Little Illustrious
+207110 - Illustrious μ
+213010 - Erebus
+213011 - Illusory Happiness
+213012 - Wardrobe Witchery
+213020 - Terror
+213021 - Halloween Terror
+213040 - Abercrombie
+213041 - Pumpkin Blast!
+213042 - Mischief on the Rocks
+299010 - Neptune
+299011 - Princess of the Reindeers
+299020 - Monarch
+299021 - White Warrick
+299022 - Black Gerard
+299030 - Cheshire
+299031 - Summery Date! 
+299032 - Cait Sith Crooner
+299033 - The Cat and the White Steed
+299040 - Drake
+299041 - The Golden Hind's Respite 
+301010 - Fubuki
+301011 - 5 Minutes Till I'm Late
+301012 - Mascot Bucky
+301013 - Music Pixy
+301014 - Fubuki Halation!
+301015 - Stormy Waitress-in-Training!
+301020 - Shirayuki
+301021 - Bunny Breeder
+301050 - Ayanami
+301051 - Witch in Ambush
+301053 - Rock 'n' Demon
+301054 - Lunar Demon
+301055 - Grade A Sailor Uniform
+301056 - Covert Ops Cloak
+301057 - Low-Key Idol @Confused
+301058 - Demon's Finest Dress
+301059 - Ayanami (Retrofit)
+301090 - Akatsuki
+301091 - Akatsuki Goes North
+301092 - Motoninja Akatsuki
+301093 - Santa's Lost Helper!
+301100 - Hibiki
+301101 - New Year's Little Imp
+301110 - Ikazuchi
+301111 - Sakura Tea
+301112 - Thunderous Festival
+301113 - Dawn's Thunder
+301120 - Inazuma
+301121 - Vanilla Pudding
+301122 - Flash of Fireworks
+301123 - Dusk's Lightning
+301130 - Shiratsuyu
+301131 - Is The Order A Torpedo?
+301140 - Yuudachi
+301141 - Shogun of Snowballs
+301143 - Carnivore Carnival!
+301144 - Woofy Floofy Christmas Night
+301148 - The Bride of Solomon
+301149 - Yuudachi (Retrofit)
+301150 - Shigure
+301151 - Attack, I-490!
+301152 - The Ballroom's Lucky Star
+301153 - Lucky Chocolate
+301159 - Shigure (Retrofit)
+301160 - Yukikaze
+301161 - Sovereign of the Swing
+301162 - Winter's Snowy Wind
+301168 - The Warmth of Spring
+301170 - Kagerou
+301171 - Pumpkins and Festivities!
+301179 - Kagerou (Retrofit)
+301180 - Shiranui
+301181 - Mooncake Merchant
+301189 - Shiranui (Retrofit)
+301200 - Nowaki
+301210 - Hatsuharu
+301211 - Snow Day Hatsuharu
+301212 - Hatsuharu in the Limelight
+301219 - Hatsuharu (Retrofit)
+301230 - Wakaba
+301231 - Holiday Special Wakaba!
+301232 - A Healthy Dose of Sunshine!
+301240 - Hatsushimo
+301242 - Perennial Joy
+301249 - Hatsushimo (Retrofit)
+301250 - Ariake
+301251 - Unending Friendship
+301259 - Ariake (Retrofit) 
+301260 - Yuugure
+301261 - Maid-In-Training!
+301262 - Twilight Blossom
+301263 - Evening Flower
+301264 - Summer Festival Shopping
+301269 - Yuugure (Retrofit)
+301270 - Kuroshio
+301280 - Oyashio
+301290 - Shimakaze
+301291 - World's Speediest Bunny Waitress
+301300 - Kamikaze
+301309 - Kamikaze (Retrofit)
+301310 - Matsukaze
+301319 - Matsukaze (Retrofit)
+301320 - Mutsuki
+301321 - Mr. Reindeer, Depart!
+301322 - Candy Festival!
+301323 - Spring Festival Sweets
+301329 - Mutsuki (Retrofit)
+301330 - Kisaragi
+301331 - New Year's Wish
+301339 - Kisaragi (Retrofit)
+301350 - Uzuki
+301351 - Sleepy Uzuki
+301370 - Minazuki
+301380 - Fumizuki
+301381 - Sleepy Fairy
+301390 - Nagatsuki
+301391 - Dangerous Kitty Maid?
+301410 - Mikazuki
+301411 - Sweet Zombie
+301470 - Umikaze
+301471 - Soft and Fluffy Therapy
+301480 - Yamakaze
+301481 - Now for a Magic Trick!
+301490 - Kawakaze
+301491 - Monochromatic Interlude
+301498 - Unsullied White Fox
+301540 - Kiyonami
+301541 - Festive Riding Hood?
+301560 - Niizuki
+301570 - Harutsuki
+301571 - A Dance for the Coming Spring
+301580 - Yoizuki
+301581 - Sports Festival Preparations
+301582 - Firecrackers and Steamed Buns
+301590 - Urakaze
+301591 - Seasonal Shogun
+301592 - Sengoku☆Shredder!
+301600 - Isokaze
+301601 - New Year's Campaign
+301602 - Sengoku☆Smasher!
+301610 - {namecode:128}
+301611 - The Honors Student
+301619 - Hamakaze (Retrofit)
+301620 - Tanikaze
+301621 - Lost Girl and Labyrinth Butterfly
+301629 - {namecode:127} (Retrofit)
+301630 - Asashio
+301631 - The Transfer Student Underneath the Dancing Petals
+301632 - Snow-Dusted Lynx Tips
+301633 - Robes of Dancing Clouds
+301640 - Ooshio
+301641 - The Reindeer's Present
+301642 - Woozy Party
+301643 - Bringer of Fortunes
+301644 - Let's 'ave Lunch
+301650 - Michishio
+301651 - Fluttering Fanfare
+301660 - Arashio
+301661 - The Gentlest Firework
+301720 - Uranami
+301721 - Snow Vanguard
+301790 - Hatakaze
+301800 - Makinami
+301801 - Time for School!
+301810 - Kasumi
+301811 - New Year's Comfort
+301812 - At School with Foo
+301819 - Kasumi (Retrofit)
+301820 - Hanazuki
+301821 - Morning Moon, Beachside Flower
+301822 - Blossoming Spring, Resplendent Moon
+301830 - Naganami
+301831 - Long Waves of Happiness
+301832 - Long-Awaited Warmth
+301833 - Nestling Up for the Long Nights
+301840 - Suzutsuki 
+301841 - Suzutsuki, Beachside Attendant! 
+301842 - Suzutsuki, Hanetsuki Adept!
+301850 - Oite
+301851 - Summer Dedication
+301852 - Jet Ink, Silver Quills
+301860 - Kazagumo
+301861 - After-School Melody
+302010 - Yuubari
+302019 - Yuubari (Retrofit)
+302040 - Nagara
+302041 - Spring Breeze Leisure
+302050 - Isuzu
+302051 - Night of Fairy Tale
+302052 - Cozy Christmas Eve
+302053 - Accidental Overheat?
+302059 - Isuzu (Retrofit)
+302070 - Yura
+302071 - We are Succubi?
+302080 - Kinu
+302081 - New Year's Blade Demon
+302082 - Token and Ghost
+302089 - Kinu (Retrofit)
+302090 - Abukuma
+302099 - Abukuma (Retrofit)
+302100 - Mogami
+302109 - Mogami (Retrofit)
+302110 - Mikuma
+302120 - Sendai
+302129 - Sendai (Retrofit)
+302130 - Jintsuu
+302131 - The Tactician's Vacation
+302139 - Jintsuu (Retrofit)
+302140 - Naka
+302141 - Foxy Summer Surfer
+302200 - Agano
+302201 - Christmas Eve Tease
+302202 - Dating Game?
+302203 - Blue Butterfly's Confession
+302210 - Noshiro
+302211 - Uncharted Festival Grounds?
+302212 - Xanadu's Eventide
+302213 - Fragrance of the Eastern Snow
+302214 - Cozy Enclave
+302215 - Hold the Ice
+302218 - A Tale of Two Lovers
+303010 - Furutaka
+303019 - Furutaka (Retrofit)
+303020 - Kako
+303029 - Kako (Retrofit)
+303030 - Aoba
+303040 - Kinugasa
+303060 - Chikuma
+303070 - Myoukou
+303080 - Nachi
+303090 - Ashigara
+303091 - Brief Intermission
+303092 - Kaleidoscopic Summer
+303110 - Takao
+303112 - Beach Rhapsody
+303113 - The Lessons of Spring
+303114 - School Romanza
+303115 - Full Throttle Charmer
+303118 - Sakura Hanami
+303120 - Atago
+303121 - Summer March
+303122 - Hallmarks of Winter
+303123 - School Traumerei
+303124 - Stunning Speedster
+303128 - Lily-White Vow
+303130 - Maya
+303140 - Choukai
+303141 - Tidy Store, Tidy Mind
+303170 - Suzuya
+303180 - Kumano 
+303181 - Fancy Waves 
+303182 - PJ Poker Party
+304010 - Kongou
+304011 - The Beauties of Nature
+304012 - Hospital Talent
+304013 - Breezy Commute
+304020 - Hiei
+304021 - Moonlit Cruise
+304022 - Fragrant Red Plum
+304023 - Beauty of the White Sands
+304030 - Haruna
+304031 - Free Time Before Class
+304032 - Scarlet Innocence
+304033 - The Elegant Lotus
+304040 - Kirishima
+304041 - After-School Cannon Time
+304042 - Summery Audacity
+304043 - Casual Dazzle
+304044 - Graceful Ink Incense
+304050 - Amagi
+304051 - Wending Waters, Serene Lotus
+304060 - Hiei-chan
+304070 - Amagi-chan
+305010 - Fusou
+305011 - The Celebration of Spring
+305012 - Perfect Partner?
+305019 - Fusou (Retrofit)
+305020 - Yamashiro
+305021 - Summer Offensive?
+305022 - Holiday Offensive
+305023 - Dressy Black Cat
+305024 - Sales Clerk Offensive?!
+305025 - Vacation Offensive!
+305026 - Street Corner Offensive!
+305028 - Bridal Attack!
+305029 - Yamashiro (Retrofit)
+305030 - Ise
+305039 - Ise (Retrofit)
+305040 - Hyuuga
+305049 - Hyuuga (Retrofit)
+305050 - Nagato
+305051 - Great Fox's Respite
+305052 - Guardian Fox's Shining Furisode
+305053 - Guardian Fox's Vacation
+305058 - Great Fox's White Gown
+305060 - Mutsu
+305061 - Warring States Warship
+305070 - Kaga(BB)
+305080 - Tosa
+305081 - Hometown Zest
+305110 - Mikasa
+305111 - Style of the Sakura Capital
+305112 - Blossom-Viewing Season
+305113 - Reverence for Rest and Relaxation
+305118 - Untarnished Splendor 
+305120 - Kii
+305121 - Poolside Persuasion
+305140 - Suruga
+305141 - Hundred Flowers' Auspice
+305142 - Straightfaced Model Student
+305143 - Uneventful Holiday Greetings
+306010 - Hiyou
+306020 - Junyou
+306030 - {namecode:89}
+306031 - The Dream of the Autumn Pillow
+306050 - {namecode:87}
+306051 - Patrolling Witch
+306059 - Shouhou (Retrofit)
+306060 - Ryuujou
+306061 - Slacking Samurai
+306062 - Dragon Hunter: Ryuujou's Rise
+306070 - Ryuuhou
+306071 - Firebird's New Year Dance
+306080 - Chitose
+306081 - Summer Shine
+306090 - Chiyoda
+306091 - Shimmering Surf
+307010 - Akagi
+307011 - Paradise Amaryllis
+307012 - Plum and Snow
+307013 - Ruby-Laced Beauty
+307014 - Dawn-Phoenix's Summons
+307018 - Deep Crimson Poppy
+307020 - Kaga
+307021 - Everlasting Killing Stone
+307022 - White Fox's New Year
+307023 - Exalted White Wings
+307024 - Gentle Blossom's Sigh
+307025 - Dusk-Simurgh's Vigil
+307028 - Sacred Blue Lily
+307030 - Souryuu
+307031 - The Crane Amidst the Pines
+307032 - The Counselor Girl
+307039 - Souryuu (Retrofit)
+307040 - Hiryuu
+307041 - After School Bullies
+307049 - Hiryuu (Retrofit)
+307050 - Shoukaku
+307051 - The Crane that Dances With the Wind
+307052 - Sororal Wings
+307060 - Zuikaku
+307061 - Ceremonial Crane
+307062 - The Wind's True Name
+307070 - Taihou
+307071 - Forbidden Fruit
+307072 - Phoenix's Spring Song
+307073 - Enraptured Companion
+307078 - Temptation on the Sea Breeze
+307080 - Shinano 
+307081 - Dreams of the Hazy Moon
+307090 - Akagi-chan
+307100 - Akagi μ
+307110 - Taihou μ
+307120 - Katsuragi
+307121 - Night-Illuminating Festival
+308010 - I-19
+308011 - Departure's Gentle Breeze
+308012 - Pillowy Paradise
+308013 - Blossoming Bunny
+308020 - I-26
+308021 - Deep-Sea Rabbit
+308022 - Shortly Before the Fireworks
+308030 - I-58
+308040 - I-25
+308041 - Coral Reef Bunny
+308042 - Sweet Wine of Celebration
+308050 - I-56
+308051 - Wallflower in the Corner
+308060 - I-168
+308061 - Festive Mood!
+312010 - Akashi
+312011 - Akashi's in the Red, Nya!
+312012 - The Black Cat Cometh!
+312013 - Welcome to AzurCon!
+312014 - Welcome to Sofmap!
+312018 - White Cat's Repayment 
+317010 - I-13
+319010 - Kashino
+319011 - Hot Springs Relaxation
+331050 - Pulse of the New Year
+331051 - Nightfall Raiment
+331052 - Off-Duty Battle Station Gear
+331053 - Dynasty Shipgirl
+399010 - Ibuki
+399011 - Winter Sylph's Reverie
+399012 - Snow on the Wind
+399013 - Arrival of Spring
+399014 - Tranquil Sunya
+399020 - Izumo
+399021 - Izumo's Thousand Cherry Trees
+399030 - Kitakaze
+399031 - Celebration Conquest!
+399040 - Azuma
+399041 - Soft Voice of Spring
+399048 - Lily-White Longing
+399050 - Hakuryuu
+399051 - Slice, Dice, and Serve
+401010 - Leberecht Maass (Z1)
+401011 - \"Rebellious\" Top Student
+401019 - Z1 (Retrofit)
+401020 - Z2
+401021 - High-Rise, High-Style
+401022 - Of Koi and Evening Hues
+401180 - Z18
+401190 - Hermann Künne (Z19)
+401200 - Karl Galster (Z20)
+401210 - Wilhelm Heidkamp (Z21)
+401230 - Z23
+401231 - Philosophy Sensei
+401232 - Breezy Doubles
+401233 - Perfect Smile?
+401234 - The Banquet's Honor Student
+401235 - Café Trainee @New Base
+401236 - Serious Idol @Acting Manager?!
+401237 - The Eyecatch in the Rye?
+401238 - Schwarze Hochzeit
+401239 - Z23 (Retrofit)
+401240 - Z24
+401241 - Festival-going Fiend
+401250 - Z25
+401251 - Hot Summer's Cool Breeze
+401260 - Z26
+401261 - Sharing is Caring 
+401280 - Z28
+401281 - New Year Smorgasbord!
+401350 - Z35
+401351 - Projekt Kirschblüte
+401360 - Z36
+401460 - Z46
+401461 - Her First Summer
+401462 - Girls' Relay
+401463 - Star-Lit★Chocolate
+401464 - Jianzhi Fantasia
+401465 - Chronicles of the Dust Wars
+402010 - Königsberg
+402020 - Karlsruhe
+402029 - Karlsruhe (Retrofit)
+402030 - Köln
+402039 - Köln (Retrofit)
+402040 - Leipzig
+402041 - Storefront Training
+402049 - Leipzig (Retrofit)
+402050 - Nürnberg
+402051 - Spring Wanderer
+402060 - Magdeburg
+402061 - Cat Café Cleanup
+403010 - Admiral Hipper
+403030 - Prinz Eugen
+403031 - Unfading Smile
+403032 - Profusion of Flowers
+403033 - Cordial Cornflower
+403034 - Final Lap
+403038 - Symphonic Fate
+403040 - Deutschland
+403041 - Dark Demon Princess
+403042 - Service Time?!
+403043 - Demon Princess' Dark Hour Banquet
+403044 - Lantern-Lit Ruler
+403050 - Admiral Graf Spee
+403051 - Girl's Sunday
+403052 - Peaceful Daily Life
+403053 - A Novel Anniversary
+403054 - World's♥Cutest
+403070 - Admiral Hipper μ
+403080 - Roon μ
+403090 - Prinz Heinrich
+403091 - Fireworks and Tapestries
+403100 - Prinz Adalbert
+403101 - After-Hours Service
+404010 - Scharnhorst
+404011 - Panther und Pflaume
+404020 - Gneisenau
+404021 - Nightmarish Succubus
+405010 - Bismarck
+405011 - Beacon of the Iron Blood
+405012 - Iron-Black Elysium
+405020 - Tirpitz
+405021 - Snow-Melting Summer
+405022 - Iron Blood Snowstorm
+405023 - Seasonal Pine and the Frost Flower
+405030 - Ulrich von Hutten
+405031 - Mayhem Maid
+406010 - Weser
+406011 - Obsidian Elegance
+406012 - Urbane Onyx
+406020 - Elbe
+406021 - Time to Show Off?
+407010 - Graf Zeppelin
+407011 - Beachside Urd
+407020 - Zeppy
+407030 - Peter Strasser
+407031 - Chronos's Kalendae
+407032 - A Moment Frozen in Pure White
+408010 - U81
+408011 - Soft Serenade
+408020 - U-47
+408021 - Rookie Rider
+408022 - Eigenen Raum
+408023 - Urban Maid
+408030 - U-557
+408040 - U-556
+408041 - Party Knight!
+408050 - U-73
+408051 - Science Rules!
+408052 - New Year's Chemistry
+408060 - U-101
+408061 - Ironbrass Trombonist
+408070 - U-522
+408080 - U-110
+408081 - Kleiner Hai
+408082 - A Cute, Sharky Reverie
+408083 - Garnished Supershark
+408084 - New Year, Small Shark
+408090 - U-96
+408091 - Secret Gaming Session 
+408100 - U-37
+408101 - New Year's Nightingale
+408110 - U-410
+408111 - Spring Festival Scheme
+408120 - U-1206
+408121 - Maid Just for You
+431230 - Keeper of the Comf-Fort
+499010 - Roon
+499011 - Dark Red Grin
+499020 - Friedrich der Große
+499021 - Dark Raiments of Gagaku
+499028 - Zeremonie of the Cradle
+499030 - Mainz
+499040 - Odin
+499041 - Black Strokes upon Blank Snow
+499050 - Ägir
+499060 - August von Parseval
+499061 - The Conquered Unhulde
+501010 - An Shan
+501012 - Setting Sun, Hearts as One
+501019 - An Shan (Retrofit)
+501020 - Fu Shun
+501030 - Chang Chun
+501031 - The Joy of Spring
+501039 - Chang Chun (Retrofit)
+501040 - Tai Yuan
+501041 - The Golden Dragon's Festivities
+502010 - Yat Sen
+502018 - Coronal Afterglow
+502020 - Ning Hai
+502021 - Summer Hunger
+502022 - Moon Palace Rabbit
+502023 - Dragon Sisters! -N
+502024 - Springtime Sojourn
+502025 - Gorgeous Violet
+502026 - Da Bao's Friend!
+502029 - Ning Hai (Retrofit)
+502030 - Ping Hai
+502031 - Summer Vacation
+502032 - Osmanthus Moon Rabbit
+502033 - Dragon Sisters! -P
+502034 - Great Gourmet Expedition
+502035 - Delicious Crimson
+502036 - Baobao's Buddy!
+502039 - Ping Hai (Retrofit)
+502040 - Ying Swei
+502041 - Snowy Pine's Warmth
+502050 - Chao Ho
+502051 - Plum Blossom's Illumination
+502070 - Hai Tien
+502071 - Verse-Weaver at the Water's Edge
+502080 - Hai Chi
+502081 - A Dance Among the Lotuses
+506010 - Chen Hai
+506011 - Vestibule of Wonders
+520000 - 导驱type20测试机
+521000 - 导驱type21测试机
+601020 - Carabiniere
+601021 - Refreshing Sundress
+601030 - Vincenzo Gioberti 
+601032 - Fair Lady's Invitation
+601040 - Maestrale
+601041 - Lonesome Beachfarer
+601050 - Libeccio
+601051 - Beachbound Southwestern Wind!
+601060 - Nicoloso da Recco
+601061 - To a Smashing Voyage!
+601070 - Pompeo Magno
+601071 - Quaver Daydream
+602010 - Duca degli Abruzzi
+602011 - Lustrous Onyx Sirenetta
+603010 - Trento
+603011 - Summer's Hotness?
+603020 - Zara
+603021 - Poolside Coincidence
+603030 - Pola 
+603031 - Seaside Coincidence
+603040 - Trieste
+603041 - Rooftop Lunch Break
+605010 - Vittorio Veneto
+605011 - The Flower of La Spezia
+605020 - Littorio
+605021 - The Glory of Naples
+605022 - Calabria Aurea
+605023 - Lounging Emerald
+605050 - Conte di Cavour
+605051 - Fierce Beachside Battle
+605060 - Giulio Cesare
+605061 - Fitness Master
+605062 - High Tide Under the Sunlight
+607010 - Aquila
+607011 - Sardegnian Shallows and Sunshine
+607012 - A Sip of Sardegnian Elegance
+607020 - Impero
+607021 - Languid Librarian
+608010 - Torricelli
+608011 - Shady Seaside
+699010 - Marco Polo
+699011 - The Queen of Hearts
+701020 - Grozny
+701021 - Bad Bunny Behind Bars
+701022 - Bunny Remodeling Plan?
+701023 - Shadowy Syndicate Showdown
+701030 - Minsk
+701031 - Thunderous Jailor
+701040 - Tashkent
+701041 - The Bound Cruiser
+701042 - The Blue Snoozer
+701050 - Tashkent μ
+701060 - Stremitelny 
+701061 - No Snow No Life
+701070 - Gremyashchy
+701071 - A Daytime Delight is in a Book
+701080 - Gromky
+701081 - Morning's Beckoning
+701090 - Soobrazitelny
+701091 - The Machinery of Life
+701100 - Kiev
+701101 - Backstreet Silver Sonata
+702010 - Avrora
+702011 - Shackled Saule
+702012 - Not Cut Out For This?
+702020 - Pamiat Merkuria
+702021 - Caged Minx
+702022 - Sweet Cherry Memories
+702029 - Pamiat‘ Merkuria (Retrofit)
+702030 - Chapayev
+702031 - The Captive Cavalier
+702032 - White Cavalier's Respite
+702040 - Kirov
+702041 - Blend R
+702042 - Drifting Justice
+702060 - Murmansk
+702061 - Sceneries of Pure Snow
+703010 - Tallinn
+703011 - Nostalgic Pilsner
+703012 - As You Say, Ma'am!
+705010 - Gangut
+705011 - Imposing Warden
+705012 - Keeper of the Firewater
+705040 - Sovetskaya Belorussiya
+705041 - Relaxation Stratagem
+705050 - Sovetskaya Rossiya
+705051 - The Lackadaisical Lookout
+705060 - Arkhangelsk
+705061 - Grandiose Getaway
+707010 - Volga
+707011 - An Irresistible AR Adventure
+718010 - Kronshtadt
+718011 - Begin the Rush!
+801010 - Le Triomphant
+801020 - Forbin
+801021 - Fleur Blanche
+801022 - École de Chevalier
+801023 - Feast of Champagne
+801029 - Forbin (Retrofit)
+801030 - Le Téméraire
+801031 - Summery Temeraire!
+801032 - Dreamy Dolce
+801040 - L'Opiniâtre
+801041 - Beachside Magician
+801070 - Le Terrible
+801071 - Silence, Slumber, and Solace
+801080 - Maillé Brézé
+801081 - The Noble Knight's Last Stand
+802010 - Émile Bertin
+802011 - Côte d'Azur
+802012 - Maid Fantastique
+802013 - Gilded Dance
+802019 - Émile Bertin (Retrofit)
+802020 - Jeanne d'Arc
+802021 - Saintess of the Sea
+805010 - Richelieu
+805011 - Fleuron of the Waves
+805012 - Evergreen Prophecy
+807010 - Béarn
+807011 - Summer Lifeguard
+808010 - Surcouf
+808011 - Shopping Time!
+808012 - Loisirs Balnéaires
+899010 - Saint Louis
+899011 - Holy Knight's Resplendence
+899012 - Alluring Administrator
+899020 - Champagne
+899021 - Lapis Lazuli's First Dream
+900001 - Königsberg
+900002 - Karlsruhe
+900003 - Köln
+900004 - Suffolk
+900005 - Norfolk
+900006 - Hood
+900007 - Prince of Wales
+900008 - Ark Royal
+900009 - Prinz Eugen
+900010 - Bismarck
+900011 - ?????
+900012 - ?????
+900013 - Tone
+900014 - Kirishima
+900015 - Mogami
+900016 - Atago
+900017 - Kongou
+900020 - Yat Sen
+900021 - ?????
+900022 - Ning Hai
+900023 - Ping Hai
+900024 - Yat Sen
+900027 - {namecode:95}
+900028 - {namecode:96}
+900032 - Yat Sen
+900033 - Akashi
+900040 - Ayanami
+900041 - Takao
+900042 - Atago
+900043 - Shoukaku
+900044 - Zuikaku
+900045 - Mikasa
+900046 - Hiei
+900050 - Mikasa
+900051 - Hiei
+900052 - Richelieu
+900053 - Jeanne
+900054 - Richelieu
+900055 - Jean Bart
+900070 - Enterprise
+900071 - ?????
+900072 - Enterprise
+900076 - Blanc
+900077 - Vert
+900079 - Glorious
+900130 - Great Fox's Respite
+900132 - Helena
+900133 - North Carolina
+900134 - Washington
+900135 - ？？？？？
+900136 - Observer zero
+900161 - Warspite
+900162 - Chang Chun
+900179 - Kizuna AI
+900180 - U-556
+900181 - U-556
+900182 - U-556
+900183 - Cat
+900184 - Enterprise
+900185 - Denver
+900186 - Columbia
+900187 - Montpelier
+900188 - Cleveland
+900189 - Takao
+900190 - Enterprise
+900191 - empress
+900192 - Takao
+900193 - Baltimore
+900194 - Hornet
+900195 - Kitakaze
+900196 - Kitakaze
+900197 - Pola
+900198 - Vittorio Veneto
+900199 - Warspite Retrofit
+900200 - Suruga
+900201 - ？？？
+900202 - ？？？
+900203 - Gascogne μ
+900204 - Akagi μ
+900205 - Cleveland μ
+900206 - Admiral Hipper μ
+900207 - Sheffield μ
+900208 - Hornet
+900209 - Shirakami Fubuki
+900210 - Tokino Sora
+900211 - Minato Aqua
+900212 - Natsuiro Matsuri
+900213 - Nakiri Ayame
+900214 - Murasaki Shion
+900215 - Ookami Mio
+900216 - Dido
+900217 - Kirov
+900218 - Sovetsky Soyuz
+900219 - Omitter
+900220 - ？？？
+900221 - ？？？
+900222 - ？？？
+900223 - ？？？
+900224 - ？？？
+900225 - ？？？
+900226 - ？？？
+900227 - ？？？
+900228 - ？？？
+900229 - ？？？
+900230 - Compiler 
+900231 - Purifier 
+900232 - Observer 
+900233 - Purifier 
+900234 - ？？？
+900235 - Universal Bulin
+900236 - Vauquelin
+900237 - Le Terrible
+900238 - Algérie?
+900239 - Jean Bart
+900240 - Laffey
+900241 - Javelin
+900242 - Z23
+900243 - {namecode:6}
+900244 - Tirpitz
+900245 - Graf Zeppelin
+900246 - Gneisenau
+900247 - {namecode:95}
+900248 - {namecode:96}
+900249 - Yamashiro (Retrofit)
+900250 - North Carolina
+900251 - Washington
+900252 - Enterprise
+900253 - Duke of York
+900254 - Victorious
+900255 - {namecode:82}
+900256 - Massachusetts
+900257 - Hood
+900258 - Ark Royal
+900259 - {namecode:91}
+900260 - {namecode:92}
+900261 - Renown
+900262 - King George V
+900263 - Warspite
+900264 - Illustrious
+900265 - Formidable
+900266 - Sovetskaya Rossiya
+900267 - Gangut
+900268 - Saratoga
+900269 - Essex
+900270 - Intrepid
+900271 - Bunker Hill
+900272 - Kaga
+900273 - Béarn
+900274 - Howe
+900275 - Valiant
+900276 - Perseus
+900277 - Eagle
+900278 - {namecode:74}
+900279 - Ranger
+900280 - {namecode:92}
+900281 - {namecode:89}
+900282 - Rodney
+900283 - {namecode:79}
+900284 - TB 
+900285 - Arbiter: Strength VIII
+900286 - Arbiter: Temperance XIV
+900287 - Arbiter: The Hermit IX
+900295 - Yorktown
+900296 - Enterprise
+900297 - Hornet
+900298 - {namecode:161}
+900300 - Marie Rose 
+900301 - Honoka 
+900302 - Kasumi 
+900303 - Misaki 
+900304 - Nagisa 
+900305 - Nyotengu 
+900306 - Monica 
+900307 - Aoste 
+900308 - Anzeel 
+900309 - ？？？
+900310 - Universal Enhanced Rigging (Experimental) +α
+900311 - Prototype Bulin MKII
+900312 - Suffolk
+900313 - ？？？
+900314 - Souryuu META'
+900315 - Helena META
+900316 - Yorktown META
+900317 - San Francisco 
+900318 - Roon
+900319 - Scharnhorst
+900320 - Arbiter: The Lovers VI
+900321 - ？？？
+900322 - Bon Homme Richard
+900323 - ？
+901010 - Le Mars
+901011 - Été Brillant
+901012 - Écolière Heureuse
+901019 - Le Mars (Retrofit)
+901020 - Tartu
+901021 - Overthinking Summer
+901030 - Vauquelin
+901031 - Innocent Summer Knight
+901032 - One-Girl Orchestra
+901110 - Le Malin
+901111 - Sleepy Sunday
+901112 - Mercredi at the Secret Base
+901113 - Listless Lapin
+901120 - Le Malin μ
+902010 - La Galissonnière
+902011 - Pristine Piscene
+902012 - Lush Spring Dreams
+902013 - Black Cat of All Hallows' Eve
+903010 - Foch
+903011 - Rainbow Rendezvous
+903020 - Algérie
+903021 - White Sand Paradise
+904010 - Dunkerque
+904011 - Summer Sucré
+904012 - Afternoon Venus
+905010 - Jean Bart
+905011 - Uninhibited Bloodstone
+905012 - Private Après Midi
+905013 - First Snow Upon the Cutlass's Edge
+905030 - Gascogne μ
+999010 - Gascogne
+999011 - Tropical Environs Acclimation Service Equipment
+9702010 - Helena META
+9704010 - Gneisenau META
+9704020 - Scharnhorst META
+9705010 - Fusou META
+9705020 - Yamashiro META
+9706010 - Hiyou META
+9706020 - Junyou META
+9707010 - Hiryuu META
+9707020 - Ark Royal META
+9707030 - Souryuu META
+10100010 - Neptune
+10100020 - Noire
+10100030 - Blanc
+10100040 - Vert
+10100050 - Purple Heart
+10100051 - Goddesses' Promise
+10100060 - Black Heart
+10100061 - Goddesses' Smile
+10100070 - White Heart
+10100071 - Goddesses' Humility
+10100080 - Green Heart
+10100081 - Goddesses' Moment
+10400010 - Kizuna AI
+10400011 - Festive Kizuna AI
+10400020 - Elegant Kizuna AI
+10400030 - Anniversary Kizuna AI
+10400040 - Super Gamer Kizuna AI
+10500010 - Shirakami Fubuki
+10500011 - Beachside Fox
+10500020 - Tokino Sora
+10500021 - Under the Clear Sky
+10500030 - Minato Aqua
+10500031 - Marine Maid
+10500040 - Natsuiro Matsuri
+10500041 - Matsuri's Day Off
+10500050 - Nakiri Ayame
+10500051 - Summertime Nakiri
+10500060 - Murasaki Shion
+10500061 - Virtual Magician
+10500070 - Ookami Mio
+10500071 - Summer Vacation
+10600010 - Marie Rose
+10600011 - Devilish Servant Against the Splashing Waves
+10600020 - Honoka
+10600021 - Summer Angel on the Shore
+10600030 - Kasumi
+10600031 - Springside Mist
+10600040 - Misaki
+10600041 - Golden Photoshoot
+10600050 - Nagisa
+10600051 - Blue Skies, Good Vibes
+10600060 - Nyotengu
+10600061 - Scarlet-Tinged Hot Spring Vacation
+10600070 - Monica
+10600071 - The Ace of Hearts
+10700010 - Haruka Amami
+10700011 - A Taste of Tranquility
+10700020 - Chihaya Kisaragi
+10700021 - Reflections of Heavenly Flowers
+10700030 - Iori Minase
+10700031 - A Little Evening Secret
+10700040 - Azusa Miura
+10700041 - Midsummer Relaxation
+10700050 - Ritsuko Akizuki
+10700051 - Paddle Showdown - Summer Formation
+10700060 - Ami Futami
+10700061 - Summer Flowers and Sizzling Beats
+10700070 - Mami Futami
+10700071 - Alluring Festival
+10800010 - Rikka Takarada
+10800011 - Blue Sky Station
+10800020 - Akane Shinjo
+10800021 - A Vacation Just for Two
+10800030 - Hass
+10800031 - Seaside Scoop!
+10800040 - Namiko
+10800041 - Miss Street-Wise
+10800050 - Yume Minami
+10800051 - A Dream Upon an Open Windowsill
+10800060 - Chise Asukagawa
+10800061 - Together, Swimming through the Sky
+10800070 - Mujina
+10800071 - Golden Promenade
+100010 - Prototype Bulin MKII
+100020 - Specialized Bulin Custom MKIII
+101020 - Dewey
+101021 - Summer Longing
+101022 - A Christmas Thank-You
+101030 - Cassin
+101031 - Shopping Carte Blanche
+101039 - Cassin (Retrofit)
+101040 - Downes
+101041 - Part-Time Bomber
+101049 - Downes (Retrofit)
+101050 - Gridley
+101051 - Christmas Photoshoot
+101060 - Craven
+101061 - Cheerleader On The Playground
+101070 - McCall
+101080 - Maury
+101090 - Fletcher
+101110 - Charles Ausburne
+101120 - Thatcher
+101130 - Aulick
+101140 - Foote
+101150 - Spence
+101160 - Benson
+101161 - Cutie Pumpkin Pie 
+101170 - Laffey
+101172 - Snow Rabbit and Candy Apple
+101173 - White Rabbit Welcomes the Spring
+101174 - Bunny Clerk?
+101175 - Picnic Adventure?
+101176 - Bunny Idol @Unmotivated
+101177 - Sleep to Clean Another Day
+101178 - White Rabbit's Oath
+101179 - Laffey (Retrofit)
+101240 - Sims
+101249 - Sims (Retrofit)
+101250 - Hammann
+101251 - Rebellious Summer
+101252 - Prideful Fairy of the Ballroom
+101253 - Hammanyan Pawnch!
+101254 - Holy Night Surprise!
+101259 - Hammann (Retrofit)
+101260 - Eldridge
+101261 - Holy Night's Embrace
+101262 - The Inquisitive Recluse
+101263 - New Year's Outing
+101264 - Kitty Idol
+101265 - Moon Festival Spacewalk
+101270 - Bailey
+101271 - Trickster Black Rabbit
+101279 - Bailey (Retrofit)
+101290 - Radford
+101291 - Sweet Magic!
+101300 - Jenkins
+101301 - Light of the Holiest Star
+101310 - Nicholas
+101311 - Nurse Nicholas
+101312 - Surprise!?
+101313 - Summer Cleaning \"Volunteer\"
+101314 - After-School Promise
+101319 - Nicholas (Retrofit)
+101330 - Bush
+101331 - Budding Painter
+101340 - Hazelwood
+101350 - Bache
+101351 - Gorgeous Speed-star
+101352 - Showy Sports Star
+101360 - Hobby
+101361 - Little Idol Schoolgirl
+101370 - Kalk
+101371 - Snow Fairy Schoolgirl
+101380 - Kimberly
+101382 - Style of the East
+101390 - Mullany
+101392 - Eastern Etiquette
+101400 - Aylwin
+101401 - Sunday Aquarium Visit
+101410 - Stanly
+101420 - Smalley
+101421 - Candy Courier
+101430 - Halsey Powell
+101431 - Spring's Lucky Star
+101440 - Cooper
+101441 - Blazing Tennis Battle
+101442 - Heartwarming Holiday Hearth
+101450 - Allen M. Sumner
+101451 - Charming Rabbit
+101460 - Stephen Potter
+101461 - Chillaxation Station
+101470 - Morrison
+101471 - Sleeping Bunny
+101480 - Ingraham
+101481 - Fixin' for a Mixin'
+101490 - Bristol
+101491 - Tales from the Empery
+102010 - Omaha
+102020 - Raleigh
+102030 - Brooklyn
+102040 - Phoenix
+102050 - Helena
+102051 - New Year's Bluebird
+102052 - May I Have this Dance?
+102059 - Helena (Retrofit)
+102060 - Atlanta
+102070 - Juneau
+102080 - San Diego
+102081 - Sandy Claus
+102088 - No. 1 June Bride!
+102089 - San Diego (Retrofit)
+102090 - Cleveland
+102091 - Reaper Fever
+102092 - Gentry Knight
+102093 - Road Trip!
+102094 - New Year's Challenge!
+102098 - Heartfelt Moment
+102100 - Columbia
+102101 - After-School Odette
+102102 - Across the Vast Prairies
+102110 - Richmond
+102120 - Honolulu
+102121 - Umbrella Girl
+102122 - Summer Accident?!
+102123 - Manjuu Mischief
+102124 - Among the Stalls
+102130 - St. Louis
+102131 - Blue and White Pottery
+102132 - Spirits in the Snow
+102133 - Luxurious Wheels
+102140 - Montpelier
+102141 - Flower of the Snowy Night
+102142 - Persephone's Throne
+102150 - Denver
+102160 - Memphis
+102161 - Casual Vacation
+102162 - Mystical Night
+102163 - A Breath of Fresh Air
+102180 - Concord
+102181 - Red Apple Candy
+102182 - Sweet☆Christmas
+102190 - Lena
+102200 - Clevelad
+102210 - Li'l Sandy
+102220 - San Juan
+102221 - The Longing Princess
+102230 - Birmingham
+102231 - Rider of Red
+102232 - Fruitful Snow of an Auspicious Year
+102240 - Cleveland μ
+102250 - Biloxi
+102251 - Dapper Gangstress
+102252 - Empress in the Silk Seat
+102253 - Night Sky's Brilliant Blue Blossoms
+102260 - Reno
+102261 - Biggest Little Cheerleader
+102262 - Summer Spin-off
+102263 - Reno Bunnino
+102264 - Spring's Inspiration
+102270 - Marblehead
+102271 - Boxing Girl!
+102272 - Charmer in the Snowy Reflection
+102273 - Moongazing on the 29½th
+102290 - Boise
+102291 - Sheepish Sapphire
+102292 - Castle Tales
+103010 - Pensacola
+103020 - Salt Lake City
+103030 - Northampton
+103040 - Chicago
+103050 - Houston
+103060 - Portland
+103061 - At School With Indy!
+103069 - Portland (Retrofit)
+103070 - Indianapolis
+103071 - At School With My Sister...
+103072 - The Light of Circle City
+103080 - Astoria
+103081 - Pure \"Gurl?\"
+103082 - Black Bunny Carnival
+103090 - Quincy
+103091 - Sizzling Summer, Brisk Breeze
+103100 - Vincennes
+103101 - Sweet Dreams
+103102 - Leisurely ABC's
+103110 - Wichita
+103111 - The General's Banquet
+103112 - Domineering Witchita 
+103120 - New Orleans
+103121 - Evening Agricole
+103130 - Minneapolis
+103131 - Wild Huntress Schoolgirl
+103132 - eXtreme Games
+103133 - Holy Night Ride
+103138 - Trapper White
+103140 - San Francisco
+103141 - Funny Bunny!
+103160 - Baltimore
+103161 - After-School Ace
+103162 - Black Ace
+103163 - Evening Breeze Minuet
+103164 - Ace's Travel Journal
+103240 - Bremerton
+103241 - Scorching-Hot Training
+103242 - Kung Fu Cruiser
+103243 - Day-Off Date
+103250 - Baltimore μ
+105010 - Nevada
+105019 - Nevada (Retrofit)
+105020 - Oklahoma
+105029 - Oklahoma (Retrofit)
+105030 - Pennsylvania
+105031 - The Keystone General
+105040 - Arizona
+105041 - Enchantress from Afar
+105070 - Tennessee
+105080 - California
+105090 - Colorado
+105092 - Traveling Melody
+105100 - Maryland
+105110 - West Virginia
+105120 - North Carolina
+105121 - The Heart's Desire
+105130 - Washington
+105140 - South Dakota
+105141 - Solo Concert
+105170 - New Jersey
+105171 - Exhilarating Steps!
+105190 - Massachusetts
+105191 - Dressed to Impress
+105200 - Alabama
+106010 - Long Island
+106011 - Long Island - Indoor Slacker
+106013 - Long Island's Spooky Stream
+106019 - Long Island (Retrofit)
+106020 - Bogue
+106029 - Bogue (Retrofit)
+106550 - Casablanca
+106551 - Cheer Squad on Break
+107010 - Langley
+107019 - Langley (Retrofit)
+107020 - Lexington
+107021 - The Beauty of Spring
+107030 - Saratoga
+107031 - Seven Seas of Rest
+107032 - Hibiscus-scented Idol
+107033 - Virtual Idol
+107034 - Superstar of the Blue Seas
+107035 - Silent Night Songstress
+107036 - Spring's Opening Act!
+107037 - The Sweetest Picnic!
+107039 - Saratoga (Retrofit)
+107040 - Ranger
+107049 - Ranger (Retrofit)
+107050 - Yorktown
+107051 - Evening I Can't Remember
+107052 - Saintly Wings
+107060 - Enterprise
+107061 - Reindeer Master
+107062 - Blooming Peony
+107063 - Anniversary Ride
+107064 - Soaring Wings of Freedom
+107065 - Heroic Finery
+107066 - Wind Catcher
+107067 - Bon Voyage
+107068 - Starlight Oath
+107070 - Hornet
+107071 - Bubbly Anniversary!
+107072 - Freshly-Baked Bonding!
+107080 - Wasp
+107090 - Essex
+107091 - A Trip Down Route 66
+107092 - Craft Fairytail
+107093 - Brush and Ink
+107110 - Intrepid
+107111 - One Intrepid Pitch
+107140 - Ticonderoga
+107141 - Show Stopper!
+107170 - Bunker Hill
+107171 - Mission Relaxation
+107220 - Independence
+107221 - Transfer Student From Afar
+107222 - The Independent Line
+107223 - Liberty and Leisure
+107224 - The Tailwind of Opportunity
+107229 - Independence (Retrofit)
+107230 - Princeton 
+107231 - Seaside Training 
+107232 - Lolipop Paradise
+107290 - Bataan
+107291 - Comfy Cotton Jammies
+107380 - Shangri-La
+107381 - Utopia's Collector
+107382 - Explorer of the Lost World
+107990 - Little Enterprise
+108010 - Dace
+108020 - Albacore
+108021 - Beneath the Black Dress
+108022 - A Catty Surprise!
+108030 - Cavalla
+108031 - Convenience Store Raid!
+108032 - Colorful Ceremony
+108040 - Bluegill
+108041 - Up-And-Coming Infielder
+108050 - Albacore μ
+108060 - Archerfish
+108061 - Coquettish Bunny
+108062 - The Devil Next Door
+108070 - Nautilus
+108071 - Afternoon Stretches
+112010 - Vestal
+112011 - Revigorating Hestia
+137030 - Cup Ramen Ambassador?
+199010 - Seattle
+199011 - Gorgeous Party
+199012 - Christmas Party Prep!
+199013 - Sunfish Spell!
+199020 - Georgia
+199021 - South Town Pearl
+199022 - Lanier Swan
+199023 - Exalted Vibrance
+199030 - Anchorage
+201010 - Amazon
+201011 - Little Orchestra
+201019 - Amazon (Retrofit)
+201020 - Acasta
+201021 - Fashionable Outing
+201022 - Lights of the Lantern Festival
+201023 - Monochromatic Marvel
+201029 - Acasta (Retrofit)
+201030 - Ardent
+201031 - Ardent Valentine
+201032 - Master Ardent?
+201039 - Ardent (Retrofit)
+201060 - Beagle
+201070 - Bulldog
+201080 - Comet
+201089 - Comet (Retrofit)
+201090 - Crescent
+201099 - Crescent (Retrofit)
+201100 - Cygnet
+201101 - Sea Star on Shore
+201102 - Holy Night's Hymn
+201103 - Winter Date
+201104 - An Offer To Be Maid
+201105 - Royal Fanfare
+201109 - Cygnet (Retrofit)
+201110 - Foxhound
+201119 - Foxhound (Retrofit)
+201120 - Fortune
+201121 - Seraphic Sunshine
+201129 - Fortune (Retrofit)
+201130 - Grenville
+201140 - Glowworm
+201141 - Jokey Adjudicator
+201160 - Hardy
+201200 - Hunter
+201210 - Javelin
+201212 - Beach Picnic!
+201213 - Let's Become Waitresses!
+201214 - Slow Ahead!
+201215 - Operation: Pillow Fight!
+201216 - Energetic Idol @120% Motivation!
+201218 - Blissful Purity
+201219 - Javelin (Retrofit)
+201220 - Juno
+201221 - Fairly Flavourful Festival
+201230 - Vampire
+201231 - The Breath of Spring
+201232 - Little Devil in White
+201233 - Night Princess's Regalia
+201234 - Night Princess Idol
+201238 - Eloi's Blessing
+201240 - Jupiter
+201241 - Fanclub Sleepover
+201250 - Jersey
+201260 - Matchless
+201261 - Escort Me Please!
+201270 - Musketeer
+201290 - Echo
+201320 - Eskimo 
+201321 - Parkaless Prankster
+201330 - Icarus 
+201331 - One-Week Medical Experience? 
+201332 - Nereid's Discovery
+201333 - At Your Service
+202010 - Leander
+202019 - Leander (Retrofit)
+202020 - Achilles
+202029 - Achilles (Retrofit)
+202030 - Ajax
+202031 - Party Queen
+202032 - Valentine's Reward?
+202039 - Ajax (Retrofit)
+202040 - Dido
+202041 - Anxious Bisque Doll
+202070 - Southampton
+202071 - New Year's Little Knight
+202072 - Afternoon Impromptu
+202080 - Sheffield
+202081 - Cloak and Dagger
+202082 - A Moment's Respite
+202083 - Black Crow's Finery
+202084 - Bulletborne
+202100 - Gloucester
+202101 - Brilliance in Purple
+202110 - Edinburgh
+202111 - The Library Fairy
+202112 - Candy Maid
+202120 - Belfast
+202121 - Iridescent Rosa
+202122 - Serene Steel
+202123 - The Noble Attendant
+202124 - Shopping with the Head Maid
+202125 - Piping-Hot Perfection
+202126 - Folded Fascination
+202128 - The Pledge of Claddagh
+202130 - Arethusa
+202140 - Galatea
+202150 - Aurora
+202151 - The Tale of Spring
+202152 - Dawn's Paean
+202153 - Heritage of Yu City
+202158 - Garb of Eternal Prosperity
+202160 - Fiji
+202161 - Trendy and Vogue?
+202170 - Jamaica
+202171 - Dark Bolt
+202172 - Highway Star
+202180 - Little Bel
+202190 - Newcastle
+202191 - Hibiscus Garments
+202199 - Newcastle (Retrofit)
+202200 - Sirius
+202201 - White Rose
+202202 - Scorching-Hot Seirios
+202203 - Azure Horizons
+202210 - Curacoa
+202211 - Eastern Grace
+202219 - Curacoa (Retrofit)
+202220 - Curlew
+202221 - Rhythm of the Dragon Empery
+202229 - Curlew (Retrofit)
+202230 - Swiftsure
+202231 - Study Hall Cyclamen
+202232 - Beauty of White Jade
+202233 - Midsummer Special Service
+202240 - Black Prince
+202241 - White Princess
+202242 - Fair Maid Spring
+202243 - Pop the Cork
+202244 - Addled Attendant?
+202250 - Sheffield μ
+202260 - Glasgow
+202261 - A Maid in Class
+202270 - Hermione 
+202271 - Pure White Angel
+202272 - Pure White Holiday
+202273 - Graceful Afternoon Tea
+202274 - Pristine Herbalist
+202280 - Dido µ
+202290 - Penelope
+202291 - Ruby-Red Boudoir
+202292 - Salty Maid
+202300 - Charybdis
+202301 - Red Chamber of Healing
+203010 - London
+203019 - London (Retrofit)
+203020 - Shropshire
+203030 - Kent
+203040 - Suffolk
+203049 - Suffolk (Retrofit)
+203050 - Norfolk
+203060 - Dorsetshire
+203070 - York
+203071 - Truth Seeker
+203072 - Summoner from the Azure Depths 
+203078 - Oath of Purity
+203079 - York (Retrofit)
+203080 - Exeter
+203081 - A Glorious Toast
+203089 - Exeter (Retrofit)
+203090 - Sussex
+203091 - Sunlit Tulips
+203092 - Wine and Red Roses
+204010 - Renown
+204020 - Repulse
+204030 - Hood
+204031 - Lady of the Shining Sun
+204032 - Porcelain Grace
+204033 - Dawnlight's Dame
+204038 - Rosey Love Poem
+204040 - Little Renown
+205010 - Queen Elizabeth
+205011 - The Queen's Ball
+205012 - One Night of the Queen
+205013 - Queen of the Campus
+205014 - Crown Jewel of the Royal Navy
+205015 - Yes, Your Maidness!
+205020 - Warspite
+205021 - Christmas Warrior
+205022 - Under Pleasure
+205029 - Warspite (Retrofit)
+205030 - Nelson
+205031 - Luna Witch
+205032 - Azure & Gold Summer Night
+205040 - Rodney
+205041 - Future Seaside Admiral
+205043 - Immaculate Beauty
+205048 - Palace of Blessings
+205050 - King George V
+205051 - Rose's Regalia
+205060 - Prince of Wales
+205061 - Sun Shining Upon Windsor
+205062 - Sakura Elegance
+205064 - The Laureate's Victory Lap
+205070 - Duke of York
+205072 - Eternal Night's Carola
+205073 - Prestige of the Glorious Formula
+205090 - Howe 
+205091 - Noble Rouge
+205092 - Pastry Princess
+205100 - Valiant 
+205101 - Mischievous Little Nurse
+205102 - Queen Valiant I
+206010 - Hermes
+206019 - Hermes (Retrofit)
+206030 - Unicorn
+206031 - Little Star Songstress
+206032 - The Gift of Spring
+206033 - Long-Awaited Date
+206034 - Prayer of Plum and Snow
+206035 - Angelic Night
+206036 - Icy-Sweet Storytime
+206038 - A Dream of Pure Vows
+206040 - Centaur
+206041 - Beachside Undine
+206042 - Sprightly Spring Wind
+206050 - Chaser
+206051 - The Way of the Dragon Empery
+206052 - Gamer Style
+206060 - Perseus 
+206061 - Unfamiliar Duties
+207010 - Eagle 
+207011 - Eagle's Clinic
+207020 - Ark Royal
+207021 - Coast Watcher
+207022 - Guardian of the Ball
+207023 - New Year's Protectress
+207028 - Pure-White Protector
+207029 - Ark Royal (Retrofit)
+207030 - Illustrious
+207031 - Never-Ending Tea Party
+207032 - Illustrious Ball
+207033 - Resplendent Hibiscus
+207035 - Maiden Lily's Radiance
+207038 - Morning Star of Love and Hope
+207040 - Victorious
+207041 - The Goddess' Day Off
+207042 - Guidance of the Spring Goddess
+207050 - Formidable
+207051 - The Lady of the Beach
+207052 - Timeless Classics
+207060 - Glorious
+207061 - Glorious School Life
+207062 - Pungent Plum
+207090 - Little Illustrious
+207110 - Illustrious μ
+213010 - Erebus
+213011 - Illusory Happiness
+213012 - Wardrobe Witchery
+213020 - Terror
+213021 - Halloween Terror
+213040 - Abercrombie
+213041 - Pumpkin Blast!
+213042 - Mischief on the Rocks
+299010 - Neptune
+299011 - Princess of the Reindeers
+299020 - Monarch
+299021 - White Warrick
+299022 - Black Gerard
+299030 - Cheshire
+299031 - Summery Date! 
+299032 - Cait Sith Crooner
+299033 - The Cat and the White Steed
+299040 - Drake
+299041 - The Golden Hind's Respite 
+301010 - Fubuki
+301011 - 5 Minutes Till I'm Late
+301012 - Mascot Bucky
+301013 - Music Pixy
+301014 - Fubuki Halation!
+301015 - Stormy Waitress-in-Training!
+301020 - Shirayuki
+301021 - Bunny Breeder
+301050 - Ayanami
+301051 - Witch in Ambush
+301053 - Rock 'n' Demon
+301054 - Lunar Demon
+301055 - Grade A Sailor Uniform
+301056 - Covert Ops Cloak
+301057 - Low-Key Idol @Confused
+301058 - Demon's Finest Dress
+301059 - Ayanami (Retrofit)
+301090 - Akatsuki
+301091 - Akatsuki Goes North
+301092 - Motoninja Akatsuki
+301093 - Santa's Lost Helper!
+301100 - Hibiki
+301101 - New Year's Little Imp
+301110 - Ikazuchi
+301111 - Sakura Tea
+301112 - Thunderous Festival
+301113 - Dawn's Thunder
+301120 - Inazuma
+301121 - Vanilla Pudding
+301122 - Flash of Fireworks
+301123 - Dusk's Lightning
+301130 - Shiratsuyu
+301131 - Is The Order A Torpedo?
+301140 - Yuudachi
+301141 - Shogun of Snowballs
+301143 - Carnivore Carnival!
+301144 - Woofy Floofy Christmas Night
+301148 - The Bride of Solomon
+301149 - Yuudachi (Retrofit)
+301150 - Shigure
+301151 - Attack, I-490!
+301152 - The Ballroom's Lucky Star
+301153 - Lucky Chocolate
+301159 - Shigure (Retrofit)
+301160 - Yukikaze
+301161 - Sovereign of the Swing
+301162 - Winter's Snowy Wind
+301168 - The Warmth of Spring
+301170 - Kagerou
+301171 - Pumpkins and Festivities!
+301179 - Kagerou (Retrofit)
+301180 - Shiranui
+301181 - Mooncake Merchant
+301189 - Shiranui (Retrofit)
+301200 - Nowaki
+301210 - Hatsuharu
+301211 - Snow Day Hatsuharu
+301212 - Hatsuharu in the Limelight
+301219 - Hatsuharu (Retrofit)
+301230 - Wakaba
+301231 - Holiday Special Wakaba!
+301232 - A Healthy Dose of Sunshine!
+301240 - Hatsushimo
+301242 - Perennial Joy
+301249 - Hatsushimo (Retrofit)
+301250 - Ariake
+301251 - Unending Friendship
+301259 - Ariake (Retrofit) 
+301260 - Yuugure
+301261 - Maid-In-Training!
+301262 - Twilight Blossom
+301263 - Evening Flower
+301264 - Summer Festival Shopping
+301269 - Yuugure (Retrofit)
+301270 - Kuroshio
+301280 - Oyashio
+301290 - Shimakaze
+301291 - World's Speediest Bunny Waitress
+301300 - Kamikaze
+301309 - Kamikaze (Retrofit)
+301310 - Matsukaze
+301319 - Matsukaze (Retrofit)
+301320 - Mutsuki
+301321 - Mr. Reindeer, Depart!
+301322 - Candy Festival!
+301323 - Spring Festival Sweets
+301329 - Mutsuki (Retrofit)
+301330 - Kisaragi
+301331 - New Year's Wish
+301339 - Kisaragi (Retrofit)
+301350 - Uzuki
+301351 - Sleepy Uzuki
+301370 - Minazuki
+301380 - Fumizuki
+301381 - Sleepy Fairy
+301390 - Nagatsuki
+301391 - Dangerous Kitty Maid?
+301410 - Mikazuki
+301411 - Sweet Zombie
+301470 - Umikaze
+301471 - Soft and Fluffy Therapy
+301480 - Yamakaze
+301481 - Now for a Magic Trick!
+301490 - Kawakaze
+301491 - Monochromatic Interlude
+301498 - Unsullied White Fox
+301540 - Kiyonami
+301541 - Festive Riding Hood?
+301560 - Niizuki
+301570 - Harutsuki
+301571 - A Dance for the Coming Spring
+301580 - Yoizuki
+301581 - Sports Festival Preparations
+301582 - Firecrackers and Steamed Buns
+301590 - Urakaze
+301591 - Seasonal Shogun
+301592 - Sengoku☆Shredder!
+301600 - Isokaze
+301601 - New Year's Campaign
+301602 - Sengoku☆Smasher!
+301610 - {namecode:128}
+301611 - The Honors Student
+301619 - Hamakaze (Retrofit)
+301620 - Tanikaze
+301621 - Lost Girl and Labyrinth Butterfly
+301629 - {namecode:127} (Retrofit)
+301630 - Asashio
+301631 - The Transfer Student Underneath the Dancing Petals
+301632 - Snow-Dusted Lynx Tips
+301633 - Robes of Dancing Clouds
+301640 - Ooshio
+301641 - The Reindeer's Present
+301642 - Woozy Party
+301643 - Bringer of Fortunes
+301644 - Let's 'ave Lunch
+301650 - Michishio
+301651 - Fluttering Fanfare
+301660 - Arashio
+301661 - The Gentlest Firework
+301720 - Uranami
+301721 - Snow Vanguard
+301790 - Hatakaze
+301800 - Makinami
+301801 - Time for School!
+301810 - Kasumi
+301811 - New Year's Comfort
+301812 - At School with Foo
+301819 - Kasumi (Retrofit)
+301820 - Hanazuki
+301821 - Morning Moon, Beachside Flower
+301822 - Blossoming Spring, Resplendent Moon
+301830 - Naganami
+301831 - Long Waves of Happiness
+301832 - Long-Awaited Warmth
+301833 - Nestling Up for the Long Nights
+301840 - Suzutsuki 
+301841 - Suzutsuki, Beachside Attendant! 
+301842 - Suzutsuki, Hanetsuki Adept!
+301850 - Oite
+301851 - Summer Dedication
+301852 - Jet Ink, Silver Quills
+301860 - Kazagumo
+301861 - After-School Melody
+302010 - Yuubari
+302019 - Yuubari (Retrofit)
+302040 - Nagara
+302041 - Spring Breeze Leisure
+302050 - Isuzu
+302051 - Night of Fairy Tale
+302052 - Cozy Christmas Eve
+302053 - Accidental Overheat?
+302059 - Isuzu (Retrofit)
+302070 - Yura
+302071 - We are Succubi?
+302080 - Kinu
+302081 - New Year's Blade Demon
+302082 - Token and Ghost
+302089 - Kinu (Retrofit)
+302090 - Abukuma
+302099 - Abukuma (Retrofit)
+302100 - Mogami
+302109 - Mogami (Retrofit)
+302110 - Mikuma
+302120 - Sendai
+302129 - Sendai (Retrofit)
+302130 - Jintsuu
+302131 - The Tactician's Vacation
+302139 - Jintsuu (Retrofit)
+302140 - Naka
+302141 - Foxy Summer Surfer
+302200 - Agano
+302201 - Christmas Eve Tease
+302202 - Dating Game?
+302203 - Blue Butterfly's Confession
+302210 - Noshiro
+302211 - Uncharted Festival Grounds?
+302212 - Xanadu's Eventide
+302213 - Fragrance of the Eastern Snow
+302214 - Cozy Enclave
+302215 - Hold the Ice
+302218 - A Tale of Two Lovers
+303010 - Furutaka
+303019 - Furutaka (Retrofit)
+303020 - Kako
+303029 - Kako (Retrofit)
+303030 - Aoba
+303040 - Kinugasa
+303060 - Chikuma
+303070 - Myoukou
+303080 - Nachi
+303090 - Ashigara
+303091 - Brief Intermission
+303092 - Kaleidoscopic Summer
+303110 - Takao
+303112 - Beach Rhapsody
+303113 - The Lessons of Spring
+303114 - School Romanza
+303115 - Full Throttle Charmer
+303118 - Sakura Hanami
+303120 - Atago
+303121 - Summer March
+303122 - Hallmarks of Winter
+303123 - School Traumerei
+303124 - Stunning Speedster
+303128 - Lily-White Vow
+303130 - Maya
+303140 - Choukai
+303141 - Tidy Store, Tidy Mind
+303170 - Suzuya
+303180 - Kumano 
+303181 - Fancy Waves 
+303182 - PJ Poker Party
+304010 - Kongou
+304011 - The Beauties of Nature
+304012 - Hospital Talent
+304013 - Breezy Commute
+304020 - Hiei
+304021 - Moonlit Cruise
+304022 - Fragrant Red Plum
+304023 - Beauty of the White Sands
+304030 - Haruna
+304031 - Free Time Before Class
+304032 - Scarlet Innocence
+304033 - The Elegant Lotus
+304040 - Kirishima
+304041 - After-School Cannon Time
+304042 - Summery Audacity
+304043 - Casual Dazzle
+304044 - Graceful Ink Incense
+304050 - Amagi
+304051 - Wending Waters, Serene Lotus
+304060 - Hiei-chan
+304070 - Amagi-chan
+305010 - Fusou
+305011 - The Celebration of Spring
+305012 - Perfect Partner?
+305019 - Fusou (Retrofit)
+305020 - Yamashiro
+305021 - Summer Offensive?
+305022 - Holiday Offensive
+305023 - Dressy Black Cat
+305024 - Sales Clerk Offensive?!
+305025 - Vacation Offensive!
+305026 - Street Corner Offensive!
+305028 - Bridal Attack!
+305029 - Yamashiro (Retrofit)
+305030 - Ise
+305039 - Ise (Retrofit)
+305040 - Hyuuga
+305049 - Hyuuga (Retrofit)
+305050 - Nagato
+305051 - Great Fox's Respite
+305052 - Guardian Fox's Shining Furisode
+305053 - Guardian Fox's Vacation
+305058 - Great Fox's White Gown
+305060 - Mutsu
+305061 - Warring States Warship
+305070 - Kaga(BB)
+305080 - Tosa
+305081 - Hometown Zest
+305110 - Mikasa
+305111 - Style of the Sakura Capital
+305112 - Blossom-Viewing Season
+305113 - Reverence for Rest and Relaxation
+305118 - Untarnished Splendor 
+305120 - Kii
+305121 - Poolside Persuasion
+305140 - Suruga
+305141 - Hundred Flowers' Auspice
+305142 - Straightfaced Model Student
+305143 - Uneventful Holiday Greetings
+306010 - Hiyou
+306020 - Junyou
+306030 - {namecode:89}
+306031 - The Dream of the Autumn Pillow
+306050 - {namecode:87}
+306051 - Patrolling Witch
+306059 - Shouhou (Retrofit)
+306060 - Ryuujou
+306061 - Slacking Samurai
+306062 - Dragon Hunter: Ryuujou's Rise
+306070 - Ryuuhou
+306071 - Firebird's New Year Dance
+306080 - Chitose
+306081 - Summer Shine
+306090 - Chiyoda
+306091 - Shimmering Surf
+307010 - Akagi
+307011 - Paradise Amaryllis
+307012 - Plum and Snow
+307013 - Ruby-Laced Beauty
+307014 - Dawn-Phoenix's Summons
+307018 - Deep Crimson Poppy
+307020 - Kaga
+307021 - Everlasting Killing Stone
+307022 - White Fox's New Year
+307023 - Exalted White Wings
+307024 - Gentle Blossom's Sigh
+307025 - Dusk-Simurgh's Vigil
+307028 - Sacred Blue Lily
+307030 - Souryuu
+307031 - The Crane Amidst the Pines
+307032 - The Counselor Girl
+307039 - Souryuu (Retrofit)
+307040 - Hiryuu
+307041 - After School Bullies
+307049 - Hiryuu (Retrofit)
+307050 - Shoukaku
+307051 - The Crane that Dances With the Wind
+307052 - Sororal Wings
+307060 - Zuikaku
+307061 - Ceremonial Crane
+307062 - The Wind's True Name
+307070 - Taihou
+307071 - Forbidden Fruit
+307072 - Phoenix's Spring Song
+307073 - Enraptured Companion
+307078 - Temptation on the Sea Breeze
+307080 - Shinano 
+307081 - Dreams of the Hazy Moon
+307090 - Akagi-chan
+307100 - Akagi μ
+307110 - Taihou μ
+307120 - Katsuragi
+307121 - Night-Illuminating Festival
+308010 - I-19
+308011 - Departure's Gentle Breeze
+308012 - Pillowy Paradise
+308013 - Blossoming Bunny
+308020 - I-26
+308021 - Deep-Sea Rabbit
+308022 - Shortly Before the Fireworks
+308030 - I-58
+308040 - I-25
+308041 - Coral Reef Bunny
+308042 - Sweet Wine of Celebration
+308050 - I-56
+308051 - Wallflower in the Corner
+308060 - I-168
+308061 - Festive Mood!
+312010 - Akashi
+312011 - Akashi's in the Red, Nya!
+312012 - The Black Cat Cometh!
+312013 - Welcome to AzurCon!
+312014 - Welcome to Sofmap!
+312018 - White Cat's Repayment 
+317010 - I-13
+319010 - Kashino
+319011 - Hot Springs Relaxation
+331050 - Pulse of the New Year
+331051 - Nightfall Raiment
+331052 - Off-Duty Battle Station Gear
+331053 - Dynasty Shipgirl
+399010 - Ibuki
+399011 - Winter Sylph's Reverie
+399012 - Snow on the Wind
+399013 - Arrival of Spring
+399014 - Tranquil Sunya
+399020 - Izumo
+399021 - Izumo's Thousand Cherry Trees
+399030 - Kitakaze
+399031 - Celebration Conquest!
+399040 - Azuma
+399041 - Soft Voice of Spring
+399048 - Lily-White Longing
+399050 - Hakuryuu
+399051 - Slice, Dice, and Serve
+401010 - Leberecht Maass (Z1)
+401011 - \"Rebellious\" Top Student
+401019 - Z1 (Retrofit)
+401020 - Z2
+401021 - High-Rise, High-Style
+401022 - Of Koi and Evening Hues
+401180 - Z18
+401190 - Hermann Künne (Z19)
+401200 - Karl Galster (Z20)
+401210 - Wilhelm Heidkamp (Z21)
+401230 - Z23
+401231 - Philosophy Sensei
+401232 - Breezy Doubles
+401233 - Perfect Smile?
+401234 - The Banquet's Honor Student
+401235 - Café Trainee @New Base
+401236 - Serious Idol @Acting Manager?!
+401237 - The Eyecatch in the Rye?
+401238 - Schwarze Hochzeit
+401239 - Z23 (Retrofit)
+401240 - Z24
+401241 - Festival-going Fiend
+401250 - Z25
+401251 - Hot Summer's Cool Breeze
+401260 - Z26
+401261 - Sharing is Caring 
+401280 - Z28
+401281 - New Year Smorgasbord!
+401350 - Z35
+401351 - Projekt Kirschblüte
+401360 - Z36
+401460 - Z46
+401461 - Her First Summer
+401462 - Girls' Relay
+401463 - Star-Lit★Chocolate
+401464 - Jianzhi Fantasia
+401465 - Chronicles of the Dust Wars
+402010 - Königsberg
+402020 - Karlsruhe
+402029 - Karlsruhe (Retrofit)
+402030 - Köln
+402039 - Köln (Retrofit)
+402040 - Leipzig
+402041 - Storefront Training
+402049 - Leipzig (Retrofit)
+402050 - Nürnberg
+402051 - Spring Wanderer
+402060 - Magdeburg
+402061 - Cat Café Cleanup
+402070 - Emden
+402071 - White-Black Partita
+402080 - Elbing
+402081 - The Throne of Misfortune
+403010 - Admiral Hipper
+403012 - Sunshine by the Hot Spring
+403030 - Prinz Eugen
+403031 - Unfading Smile
+403032 - Profusion of Flowers
+403033 - Cordial Cornflower
+403034 - Final Lap
+403038 - Symphonic Fate
+403040 - Deutschland
+403041 - Dark Demon Princess
+403042 - Service Time?!
+403043 - Demon Princess' Dark Hour Banquet
+403044 - Lantern-Lit Ruler
+403050 - Admiral Graf Spee
+403051 - Girl's Sunday
+403052 - Peaceful Daily Life
+403053 - A Novel Anniversary
+403054 - World's♥Cutest
+403070 - Admiral Hipper μ
+403080 - Roon μ
+403090 - Prinz Heinrich
+403091 - Fireworks and Tapestries
+403100 - Prinz Adalbert
+403101 - After-Hours Service
+403110 - Yorck
+403111 - Breaker under the Blood Moon
+403120 - Little Prinz Eugen
+404010 - Scharnhorst
+404011 - Panther und Pflaume
+404020 - Gneisenau
+404021 - Nightmarish Succubus
+404030 - Seydlitz
+404031 - Heir of the Vampire Killer
+404040 - Lützow
+404041 - Everlasting Blood Banquet
+405010 - Bismarck
+405011 - Beacon of the Iron Blood
+405012 - Iron-Black Elysium
+405020 - Tirpitz
+405021 - Snow-Melting Summer
+405022 - Iron Blood Snowstorm
+405023 - Seasonal Pine and the Frost Flower
+405030 - Ulrich von Hutten
+405031 - Mayhem Maid
+405040 - Thüringen
+405041 - Tidying in the Moonlight
+406010 - Weser
+406011 - Obsidian Elegance
+406012 - Urbane Onyx
+406020 - Elbe
+406021 - Time to Show Off?
+407010 - Graf Zeppelin
+407011 - Beachside Urd
+407020 - Zeppy
+407030 - Peter Strasser
+407031 - Chronos's Kalendae
+407032 - A Moment Frozen in Pure White
+408010 - U81
+408011 - Soft Serenade
+408020 - U-47
+408021 - Rookie Rider
+408022 - Eigenen Raum
+408023 - Urban Maid
+408024 - Sanguine Moon Sojourn
+408030 - U-557
+408040 - U-556
+408041 - Party Knight!
+408050 - U-73
+408051 - Science Rules!
+408052 - New Year's Chemistry
+408060 - U-101
+408061 - Ironbrass Trombonist
+408070 - U-522
+408080 - U-110
+408081 - Kleiner Hai
+408082 - A Cute, Sharky Reverie
+408083 - Garnished Supershark
+408084 - New Year, Small Shark
+408090 - U-96
+408091 - Secret Gaming Session 
+408100 - U-37
+408101 - New Year's Nightingale
+408110 - U-410
+408111 - Spring Festival Scheme
+408120 - U-1206
+408121 - Maid Just for You
+431230 - Keeper of the Comf-Fort
+499010 - Roon
+499011 - Dark Red Grin
+499020 - Friedrich der Große
+499021 - Dark Raiments of Gagaku
+499028 - Zeremonie of the Cradle
+499030 - Mainz
+499040 - Odin
+499041 - Black Strokes upon Blank Snow
+499050 - Ägir
+499060 - August von Parseval
+499061 - The Conquered Unhulde
+501010 - An Shan
+501012 - Setting Sun, Hearts as One
+501019 - An Shan (Retrofit)
+501020 - Fu Shun
+501030 - Chang Chun
+501031 - The Joy of Spring
+501039 - Chang Chun (Retrofit)
+501040 - Tai Yuan
+501041 - The Golden Dragon's Festivities
+502010 - Yat Sen
+502018 - Coronal Afterglow
+502020 - Ning Hai
+502021 - Summer Hunger
+502022 - Moon Palace Rabbit
+502023 - Dragon Sisters! -N
+502024 - Springtime Sojourn
+502025 - Gorgeous Violet
+502026 - Da Bao's Friend!
+502029 - Ning Hai (Retrofit)
+502030 - Ping Hai
+502031 - Summer Vacation
+502032 - Osmanthus Moon Rabbit
+502033 - Dragon Sisters! -P
+502034 - Great Gourmet Expedition
+502035 - Delicious Crimson
+502036 - Baobao's Buddy!
+502039 - Ping Hai (Retrofit)
+502040 - Ying Swei
+502041 - Snowy Pine's Warmth
+502050 - Chao Ho
+502051 - Plum Blossom's Illumination
+502070 - Hai Tien
+502071 - Verse-Weaver at the Water's Edge
+502080 - Hai Chi
+502081 - A Dance Among the Lotuses
+506010 - Chen Hai
+506011 - Vestibule of Wonders
+520000 - 导驱type20测试机
+521000 - 导驱type21测试机
+601020 - Carabiniere
+601021 - Refreshing Sundress
+601030 - Vincenzo Gioberti 
+601032 - Fair Lady's Invitation
+601040 - Maestrale
+601041 - Lonesome Beachfarer
+601050 - Libeccio
+601051 - Beachbound Southwestern Wind!
+601060 - Nicoloso da Recco
+601061 - To a Smashing Voyage!
+601070 - Pompeo Magno
+601071 - Quaver Daydream
+602010 - Duca degli Abruzzi
+602011 - Lustrous Onyx Sirenetta
+603010 - Trento
+603011 - Summer's Hotness?
+603020 - Zara
+603021 - Poolside Coincidence
+603030 - Pola 
+603031 - Seaside Coincidence
+603040 - Trieste
+603041 - Rooftop Lunch Break
+605010 - Vittorio Veneto
+605011 - The Flower of La Spezia
+605020 - Littorio
+605021 - The Glory of Naples
+605022 - Calabria Aurea
+605023 - Lounging Emerald
+605050 - Conte di Cavour
+605051 - Fierce Beachside Battle
+605060 - Giulio Cesare
+605061 - Fitness Master
+605062 - High Tide Under the Sunlight
+607010 - Aquila
+607011 - Sardegnian Shallows and Sunshine
+607012 - A Sip of Sardegnian Elegance
+607020 - Impero
+607021 - Languid Librarian
+608010 - Torricelli
+608011 - Shady Seaside
+699010 - Marco Polo
+699011 - The Queen of Hearts
+701020 - Grozny
+701021 - Bad Bunny Behind Bars
+701022 - Bunny Remodeling Plan?
+701023 - Shadowy Syndicate Showdown
+701030 - Minsk
+701031 - Thunderous Jailor
+701040 - Tashkent
+701041 - The Bound Cruiser
+701042 - The Blue Snoozer
+701050 - Tashkent μ
+701060 - Stremitelny 
+701061 - No Snow No Life
+701070 - Gremyashchy
+701071 - A Daytime Delight is in a Book
+701080 - Gromky
+701081 - Morning's Beckoning
+701090 - Soobrazitelny
+701091 - The Machinery of Life
+701100 - Kiev
+701101 - Backstreet Silver Sonata
+702010 - Avrora
+702011 - Shackled Saule
+702012 - Not Cut Out For This?
+702020 - Pamiat Merkuria
+702021 - Caged Minx
+702022 - Sweet Cherry Memories
+702029 - Pamiat‘ Merkuria (Retrofit)
+702030 - Chapayev
+702031 - The Captive Cavalier
+702032 - White Cavalier's Respite
+702033 - Indigo & Lantern-Lit Summer Night
+702040 - Kirov
+702041 - Blend R
+702042 - Drifting Justice
+702060 - Murmansk
+702061 - Sceneries of Pure Snow
+703010 - Tallinn
+703011 - Nostalgic Pilsner
+703012 - As You Say, Ma'am!
+705010 - Gangut
+705011 - Imposing Warden
+705012 - Keeper of the Firewater
+705040 - Sovetskaya Belorussiya
+705041 - Relaxation Stratagem
+705050 - Sovetskaya Rossiya
+705051 - The Lackadaisical Lookout
+705060 - Arkhangelsk
+705061 - Grandiose Getaway
+707010 - Volga
+707011 - An Irresistible AR Adventure
+718010 - Kronshtadt
+718011 - Begin the Rush!
+801010 - Le Triomphant
+801020 - Forbin
+801021 - Fleur Blanche
+801022 - École de Chevalier
+801023 - Feast of Champagne
+801029 - Forbin (Retrofit)
+801030 - Le Téméraire
+801031 - Summery Temeraire!
+801032 - Dreamy Dolce
+801040 - L'Opiniâtre
+801041 - Beachside Magician
+801070 - Le Terrible
+801071 - Silence, Slumber, and Solace
+801080 - Maillé Brézé
+801081 - The Noble Knight's Last Stand
+802010 - Émile Bertin
+802011 - Côte d'Azur
+802012 - Maid Fantastique
+802013 - Gilded Dance
+802019 - Émile Bertin (Retrofit)
+802020 - Jeanne d'Arc
+802021 - Saintess of the Sea
+805010 - Richelieu
+805011 - Fleuron of the Waves
+805012 - Evergreen Prophecy
+807010 - Béarn
+807011 - Summer Lifeguard
+808010 - Surcouf
+808011 - Shopping Time!
+808012 - Loisirs Balnéaires
+899010 - Saint Louis
+899011 - Holy Knight's Resplendence
+899012 - Alluring Administrator
+899020 - Champagne
+899021 - Lapis Lazuli's First Dream
+900001 - Königsberg
+900002 - Karlsruhe
+900003 - Köln
+900004 - Suffolk
+900005 - Norfolk
+900006 - Hood
+900007 - Prince of Wales
+900008 - Ark Royal
+900009 - Prinz Eugen
+900010 - Bismarck
+900011 - ?????
+900012 - ?????
+900013 - Tone
+900014 - Kirishima
+900015 - Mogami
+900016 - Atago
+900017 - Kongou
+900020 - Yat Sen
+900021 - ?????
+900022 - Ning Hai
+900023 - Ping Hai
+900024 - Yat Sen
+900027 - {namecode:95}
+900028 - {namecode:96}
+900032 - Yat Sen
+900033 - Akashi
+900040 - Ayanami
+900041 - Takao
+900042 - Atago
+900043 - Shoukaku
+900044 - Zuikaku
+900045 - Mikasa
+900046 - Hiei
+900050 - Mikasa
+900051 - Hiei
+900052 - Richelieu
+900053 - Jeanne
+900054 - Richelieu
+900055 - Jean Bart
+900070 - Enterprise
+900071 - ?????
+900072 - Enterprise
+900076 - Blanc
+900077 - Vert
+900079 - Glorious
+900130 - Great Fox's Respite
+900132 - Helena
+900133 - North Carolina
+900134 - Washington
+900135 - ？？？？？
+900136 - Observer zero
+900161 - Warspite
+900162 - Chang Chun
+900179 - Kizuna AI
+900180 - U-556
+900181 - U-556
+900182 - U-556
+900183 - Cat
+900184 - Enterprise
+900185 - Denver
+900186 - Columbia
+900187 - Montpelier
+900188 - Cleveland
+900189 - Takao
+900190 - Enterprise
+900191 - empress
+900192 - Takao
+900193 - Baltimore
+900194 - Hornet
+900195 - Kitakaze
+900196 - Kitakaze
+900197 - Pola
+900198 - Vittorio Veneto
+900199 - Warspite Retrofit
+900200 - Suruga
+900201 - ？？？
+900202 - ？？？
+900203 - Gascogne μ
+900204 - Akagi μ
+900205 - Cleveland μ
+900206 - Admiral Hipper μ
+900207 - Sheffield μ
+900208 - Hornet
+900209 - Shirakami Fubuki
+900210 - Tokino Sora
+900211 - Minato Aqua
+900212 - Natsuiro Matsuri
+900213 - Nakiri Ayame
+900214 - Murasaki Shion
+900215 - Ookami Mio
+900216 - Dido
+900217 - Kirov
+900218 - Sovetsky Soyuz
+900219 - Omitter
+900220 - ？？？
+900221 - ？？？
+900222 - ？？？
+900223 - ？？？
+900224 - ？？？
+900225 - ？？？
+900226 - ？？？
+900227 - ？？？
+900228 - ？？？
+900229 - ？？？
+900230 - Compiler 
+900231 - Purifier 
+900232 - Observer 
+900233 - Purifier 
+900234 - ？？？
+900235 - Universal Bulin
+900236 - Vauquelin
+900237 - Le Terrible
+900238 - Algérie?
+900239 - Jean Bart
+900240 - Laffey
+900241 - Javelin
+900242 - Z23
+900243 - {namecode:6}
+900244 - Tirpitz
+900245 - Graf Zeppelin
+900246 - Gneisenau
+900247 - {namecode:95}
+900248 - {namecode:96}
+900249 - Yamashiro (Retrofit)
+900250 - North Carolina
+900251 - Washington
+900252 - Enterprise
+900253 - Duke of York
+900254 - Victorious
+900255 - {namecode:82}
+900256 - Massachusetts
+900257 - Hood
+900258 - Ark Royal
+900259 - {namecode:91}
+900260 - {namecode:92}
+900261 - Renown
+900262 - King George V
+900263 - Warspite
+900264 - Illustrious
+900265 - Formidable
+900266 - Sovetskaya Rossiya
+900267 - Gangut
+900268 - Saratoga
+900269 - Essex
+900270 - Intrepid
+900271 - Bunker Hill
+900272 - Kaga
+900273 - Béarn
+900274 - Howe
+900275 - Valiant
+900276 - Perseus
+900277 - Eagle
+900278 - {namecode:74}
+900279 - Ranger
+900280 - {namecode:92}
+900281 - {namecode:89}
+900282 - Rodney
+900283 - {namecode:79}
+900284 - TB 
+900285 - Arbiter: Strength VIII
+900286 - Arbiter: Temperance XIV
+900287 - Arbiter: The Hermit IX
+900295 - Yorktown
+900296 - Enterprise
+900297 - Hornet
+900298 - {namecode:161}
+900300 - Marie Rose 
+900301 - Honoka 
+900302 - Kasumi 
+900303 - Misaki 
+900304 - Nagisa 
+900305 - Nyotengu 
+900306 - Monica 
+900307 - Aoste 
+900308 - Anzeel 
+900309 - ？？？
+900310 - Universal Enhanced Rigging (Experimental) +α
+900311 - Prototype Bulin MKII
+900312 - Suffolk
+900313 - ？？？
+900314 - Souryuu META'
+900315 - Helena META
+900316 - Yorktown META
+900317 - San Francisco 
+900318 - Roon
+900319 - Scharnhorst
+900320 - Arbiter: The Lovers VI
+900321 - ？？？
+900322 - Bon Homme Richard
+900323 - ？
+900350 - {namecode:39}
+900351 - {namecode:199}
+901010 - Le Mars
+901011 - Été Brillant
+901012 - Écolière Heureuse
+901019 - Le Mars (Retrofit)
+901020 - Tartu
+901021 - Overthinking Summer
+901030 - Vauquelin
+901031 - Innocent Summer Knight
+901032 - One-Girl Orchestra
+901110 - Le Malin
+901111 - Sleepy Sunday
+901112 - Mercredi at the Secret Base
+901113 - Listless Lapin
+901120 - Le Malin μ
+902010 - La Galissonnière
+902011 - Pristine Piscene
+902012 - Lush Spring Dreams
+902013 - Black Cat of All Hallows' Eve
+903010 - Foch
+903011 - Rainbow Rendezvous
+903020 - Algérie
+903021 - White Sand Paradise
+904010 - Dunkerque
+904011 - Summer Sucré
+904012 - Afternoon Venus
+905010 - Jean Bart
+905011 - Uninhibited Bloodstone
+905012 - Private Après Midi
+905013 - First Snow Upon the Cutlass's Edge
+905030 - Gascogne μ
+999010 - Gascogne
+999011 - Tropical Environs Acclimation Service Equipment
+9702010 - Helena META
+9704010 - Gneisenau META
+9704020 - Scharnhorst META
+9705010 - Fusou META
+9705020 - Yamashiro META
+9706010 - Hiyou META
+9706020 - Junyou META
+9707010 - Hiryuu META
+9707020 - Ark Royal META
+9707030 - Souryuu META
+10100010 - Neptune
+10100020 - Noire
+10100030 - Blanc
+10100040 - Vert
+10100050 - Purple Heart
+10100051 - Goddesses' Promise
+10100060 - Black Heart
+10100061 - Goddesses' Smile
+10100070 - White Heart
+10100071 - Goddesses' Humility
+10100080 - Green Heart
+10100081 - Goddesses' Moment
+10400010 - Kizuna AI
+10400011 - Festive Kizuna AI
+10400020 - Elegant Kizuna AI
+10400030 - Anniversary Kizuna AI
+10400040 - Super Gamer Kizuna AI
+10500010 - Shirakami Fubuki
+10500011 - Beachside Fox
+10500020 - Tokino Sora
+10500021 - Under the Clear Sky
+10500030 - Minato Aqua
+10500031 - Marine Maid
+10500040 - Natsuiro Matsuri
+10500041 - Matsuri's Day Off
+10500050 - Nakiri Ayame
+10500051 - Summertime Nakiri
+10500060 - Murasaki Shion
+10500061 - Virtual Magician
+10500070 - Ookami Mio
+10500071 - Summer Vacation
+10600010 - Marie Rose
+10600011 - Devilish Servant Against the Splashing Waves
+10600020 - Honoka
+10600021 - Summer Angel on the Shore
+10600030 - Kasumi
+10600031 - Springside Mist
+10600040 - Misaki
+10600041 - Golden Photoshoot
+10600050 - Nagisa
+10600051 - Blue Skies, Good Vibes
+10600060 - Nyotengu
+10600061 - Scarlet-Tinged Hot Spring Vacation
+10600070 - Monica
+10600071 - The Ace of Hearts
+10700010 - Haruka Amami
+10700011 - A Taste of Tranquility
+10700020 - Chihaya Kisaragi
+10700021 - Reflections of Heavenly Flowers
+10700030 - Iori Minase
+10700031 - A Little Evening Secret
+10700040 - Azusa Miura
+10700041 - Midsummer Relaxation
+10700050 - Ritsuko Akizuki
+10700051 - Paddle Showdown - Summer Formation
+10700060 - Ami Futami
+10700061 - Summer Flowers and Sizzling Beats
+10700070 - Mami Futami
+10700071 - Alluring Festival
+10800010 - Rikka Takarada
+10800011 - Blue Sky Station
+10800020 - Akane Shinjo
+10800021 - A Vacation Just for Two
+10800030 - Hass
+10800031 - Seaside Scoop!
+10800040 - Namiko
+10800041 - Miss Street-Wise
+10800050 - Yume Minami
+10800051 - A Dream Upon an Open Windowsill
+10800060 - Chise Asukagawa
+10800061 - Together, Swimming through the Sky
+10800070 - Mujina
+10800071 - Golden Promenade
+100010 - Prototype Bulin MKII
+100020 - Specialized Bulin Custom MKIII
+101020 - Dewey
+101021 - Summer Longing
+101022 - A Christmas Thank-You
+101030 - Cassin
+101031 - Shopping Carte Blanche
+101039 - Cassin (Retrofit)
+101040 - Downes
+101041 - Part-Time Bomber
+101049 - Downes (Retrofit)
+101050 - Gridley
+101051 - Christmas Photoshoot
+101060 - Craven
+101061 - Cheerleader On The Playground
+101070 - McCall
+101080 - Maury
+101090 - Fletcher
+101110 - Charles Ausburne
+101120 - Thatcher
+101130 - Aulick
+101140 - Foote
+101150 - Spence
+101160 - Benson
+101161 - Cutie Pumpkin Pie 
+101170 - Laffey
+101172 - Snow Rabbit and Candy Apple
+101173 - White Rabbit Welcomes the Spring
+101174 - Bunny Clerk?
+101175 - Picnic Adventure?
+101176 - Bunny Idol @Unmotivated
+101177 - Sleep to Clean Another Day
+101178 - White Rabbit's Oath
+101179 - Laffey (Retrofit)
+101240 - Sims
+101249 - Sims (Retrofit)
+101250 - Hammann
+101251 - Rebellious Summer
+101252 - Prideful Fairy of the Ballroom
+101253 - Hammanyan Pawnch!
+101254 - Holy Night Surprise!
+101259 - Hammann (Retrofit)
+101260 - Eldridge
+101261 - Holy Night's Embrace
+101262 - The Inquisitive Recluse
+101263 - New Year's Outing
+101264 - Kitty Idol
+101265 - Moon Festival Spacewalk
+101270 - Bailey
+101271 - Trickster Black Rabbit
+101279 - Bailey (Retrofit)
+101290 - Radford
+101291 - Sweet Magic!
+101300 - Jenkins
+101301 - Light of the Holiest Star
+101310 - Nicholas
+101311 - Nurse Nicholas
+101312 - Surprise!?
+101313 - Summer Cleaning \"Volunteer\"
+101314 - After-School Promise
+101319 - Nicholas (Retrofit)
+101330 - Bush
+101331 - Budding Painter
+101340 - Hazelwood
+101350 - Bache
+101351 - Gorgeous Speed-star
+101352 - Showy Sports Star
+101360 - Hobby
+101361 - Little Idol Schoolgirl
+101370 - Kalk
+101371 - Snow Fairy Schoolgirl
+101380 - Kimberly
+101382 - Style of the East
+101390 - Mullany
+101392 - Eastern Etiquette
+101400 - Aylwin
+101401 - Sunday Aquarium Visit
+101410 - Stanly
+101420 - Smalley
+101421 - Candy Courier
+101430 - Halsey Powell
+101431 - Spring's Lucky Star
+101440 - Cooper
+101441 - Blazing Tennis Battle
+101442 - Heartwarming Holiday Hearth
+101450 - Allen M. Sumner
+101451 - Charming Rabbit
+101460 - Stephen Potter
+101461 - Chillaxation Station
+101470 - Morrison
+101471 - Sleeping Bunny
+101480 - Ingraham
+101481 - Fixin' for a Mixin'
+101490 - Bristol
+101491 - Tales from the Empery
+102010 - Omaha
+102020 - Raleigh
+102030 - Brooklyn
+102040 - Phoenix
+102050 - Helena
+102051 - New Year's Bluebird
+102052 - May I Have this Dance?
+102059 - Helena (Retrofit)
+102060 - Atlanta
+102070 - Juneau
+102080 - San Diego
+102081 - Sandy Claus
+102088 - No. 1 June Bride!
+102089 - San Diego (Retrofit)
+102090 - Cleveland
+102091 - Reaper Fever
+102092 - Gentry Knight
+102093 - Road Trip!
+102094 - New Year's Challenge!
+102098 - Heartfelt Moment
+102100 - Columbia
+102101 - After-School Odette
+102102 - Across the Vast Prairies
+102110 - Richmond
+102120 - Honolulu
+102121 - Umbrella Girl
+102122 - Summer Accident?!
+102123 - Manjuu Mischief
+102124 - Among the Stalls
+102130 - St. Louis
+102131 - Blue and White Pottery
+102132 - Spirits in the Snow
+102133 - Luxurious Wheels
+102140 - Montpelier
+102141 - Flower of the Snowy Night
+102142 - Persephone's Throne
+102150 - Denver
+102160 - Memphis
+102161 - Casual Vacation
+102162 - Mystical Night
+102163 - A Breath of Fresh Air
+102180 - Concord
+102181 - Red Apple Candy
+102182 - Sweet☆Christmas
+102190 - Lena
+102200 - Clevelad
+102210 - Li'l Sandy
+102220 - San Juan
+102221 - The Longing Princess
+102230 - Birmingham
+102231 - Rider of Red
+102232 - Fruitful Snow of an Auspicious Year
+102240 - Cleveland μ
+102250 - Biloxi
+102251 - Dapper Gangstress
+102252 - Empress in the Silk Seat
+102253 - Night Sky's Brilliant Blue Blossoms
+102260 - Reno
+102261 - Biggest Little Cheerleader
+102262 - Summer Spin-off
+102263 - Reno Bunnino
+102264 - Spring's Inspiration
+102270 - Marblehead
+102271 - Boxing Girl!
+102272 - Charmer in the Snowy Reflection
+102273 - Moongazing on the 29½th
+102290 - Boise
+102291 - Sheepish Sapphire
+102292 - Castle Tales
+103010 - Pensacola
+103020 - Salt Lake City
+103030 - Northampton
+103040 - Chicago
+103050 - Houston
+103060 - Portland
+103061 - At School With Indy!
+103069 - Portland (Retrofit)
+103070 - Indianapolis
+103071 - At School With My Sister...
+103072 - The Light of Circle City
+103080 - Astoria
+103081 - Pure \"Gurl?\"
+103082 - Black Bunny Carnival
+103090 - Quincy
+103091 - Sizzling Summer, Brisk Breeze
+103100 - Vincennes
+103101 - Sweet Dreams
+103102 - Leisurely ABC's
+103110 - Wichita
+103111 - The General's Banquet
+103112 - Domineering Witchita 
+103120 - New Orleans
+103121 - Evening Agricole
+103130 - Minneapolis
+103131 - Wild Huntress Schoolgirl
+103132 - eXtreme Games
+103133 - Holy Night Ride
+103138 - Trapper White
+103140 - San Francisco
+103141 - Funny Bunny!
+103160 - Baltimore
+103161 - After-School Ace
+103162 - Black Ace
+103163 - Evening Breeze Minuet
+103164 - Ace's Travel Journal
+103240 - Bremerton
+103241 - Scorching-Hot Training
+103242 - Kung Fu Cruiser
+103243 - Day-Off Date
+103250 - Baltimore μ
+105010 - Nevada
+105019 - Nevada (Retrofit)
+105020 - Oklahoma
+105029 - Oklahoma (Retrofit)
+105030 - Pennsylvania
+105031 - The Keystone General
+105040 - Arizona
+105041 - Enchantress from Afar
+105070 - Tennessee
+105080 - California
+105090 - Colorado
+105092 - Traveling Melody
+105100 - Maryland
+105110 - West Virginia
+105120 - North Carolina
+105121 - The Heart's Desire
+105130 - Washington
+105140 - South Dakota
+105141 - Solo Concert
+105170 - New Jersey
+105171 - Exhilarating Steps!
+105190 - Massachusetts
+105191 - Dressed to Impress
+105200 - Alabama
+106010 - Long Island
+106011 - Long Island - Indoor Slacker
+106013 - Long Island's Spooky Stream
+106019 - Long Island (Retrofit)
+106020 - Bogue
+106029 - Bogue (Retrofit)
+106550 - Casablanca
+106551 - Cheer Squad on Break
+107010 - Langley
+107019 - Langley (Retrofit)
+107020 - Lexington
+107021 - The Beauty of Spring
+107030 - Saratoga
+107031 - Seven Seas of Rest
+107032 - Hibiscus-scented Idol
+107033 - Virtual Idol
+107034 - Superstar of the Blue Seas
+107035 - Silent Night Songstress
+107036 - Spring's Opening Act!
+107037 - The Sweetest Picnic!
+107039 - Saratoga (Retrofit)
+107040 - Ranger
+107049 - Ranger (Retrofit)
+107050 - Yorktown
+107051 - Evening I Can't Remember
+107052 - Saintly Wings
+107060 - Enterprise
+107061 - Reindeer Master
+107062 - Blooming Peony
+107063 - Anniversary Ride
+107064 - Soaring Wings of Freedom
+107065 - Heroic Finery
+107066 - Wind Catcher
+107067 - Bon Voyage
+107068 - Starlight Oath
+107070 - Hornet
+107071 - Bubbly Anniversary!
+107072 - Freshly-Baked Bonding!
+107080 - Wasp
+107090 - Essex
+107091 - A Trip Down Route 66
+107092 - Craft Fairytail
+107093 - Brush and Ink
+107110 - Intrepid
+107111 - One Intrepid Pitch
+107140 - Ticonderoga
+107141 - Show Stopper!
+107170 - Bunker Hill
+107171 - Mission Relaxation
+107220 - Independence
+107221 - Transfer Student From Afar
+107222 - The Independent Line
+107223 - Liberty and Leisure
+107224 - The Tailwind of Opportunity
+107229 - Independence (Retrofit)
+107230 - Princeton 
+107231 - Seaside Training 
+107232 - Lolipop Paradise
+107290 - Bataan
+107291 - Comfy Cotton Jammies
+107380 - Shangri-La
+107381 - Utopia's Collector
+107382 - Explorer of the Lost World
+107990 - Little Enterprise
+108010 - Dace
+108020 - Albacore
+108021 - Beneath the Black Dress
+108022 - A Catty Surprise!
+108030 - Cavalla
+108031 - Convenience Store Raid!
+108032 - Colorful Ceremony
+108040 - Bluegill
+108041 - Up-And-Coming Infielder
+108050 - Albacore μ
+108060 - Archerfish
+108061 - Coquettish Bunny
+108062 - The Devil Next Door
+108070 - Nautilus
+108071 - Afternoon Stretches
+112010 - Vestal
+112011 - Revigorating Hestia
+137030 - Cup Ramen Ambassador?
+199010 - Seattle
+199011 - Gorgeous Party
+199012 - Christmas Party Prep!
+199013 - Sunfish Spell!
+199020 - Georgia
+199021 - South Town Pearl
+199022 - Lanier Swan
+199023 - Exalted Vibrance
+199030 - Anchorage
+201010 - Amazon
+201011 - Little Orchestra
+201019 - Amazon (Retrofit)
+201020 - Acasta
+201021 - Fashionable Outing
+201022 - Lights of the Lantern Festival
+201023 - Monochromatic Marvel
+201029 - Acasta (Retrofit)
+201030 - Ardent
+201031 - Ardent Valentine
+201032 - Master Ardent?
+201039 - Ardent (Retrofit)
+201060 - Beagle
+201070 - Bulldog
+201080 - Comet
+201089 - Comet (Retrofit)
+201090 - Crescent
+201099 - Crescent (Retrofit)
+201100 - Cygnet
+201101 - Sea Star on Shore
+201102 - Holy Night's Hymn
+201103 - Winter Date
+201104 - An Offer To Be Maid
+201105 - Royal Fanfare
+201109 - Cygnet (Retrofit)
+201110 - Foxhound
+201119 - Foxhound (Retrofit)
+201120 - Fortune
+201121 - Seraphic Sunshine
+201129 - Fortune (Retrofit)
+201130 - Grenville
+201140 - Glowworm
+201141 - Jokey Adjudicator
+201160 - Hardy
+201200 - Hunter
+201210 - Javelin
+201212 - Beach Picnic!
+201213 - Let's Become Waitresses!
+201214 - Slow Ahead!
+201215 - Operation: Pillow Fight!
+201216 - Energetic Idol @120% Motivation!
+201218 - Blissful Purity
+201219 - Javelin (Retrofit)
+201220 - Juno
+201221 - Fairly Flavourful Festival
+201230 - Vampire
+201231 - The Breath of Spring
+201232 - Little Devil in White
+201233 - Night Princess's Regalia
+201234 - Night Princess Idol
+201238 - Eloi's Blessing
+201240 - Jupiter
+201241 - Fanclub Sleepover
+201250 - Jersey
+201260 - Matchless
+201261 - Escort Me Please!
+201270 - Musketeer
+201290 - Echo
+201320 - Eskimo 
+201321 - Parkaless Prankster
+201330 - Icarus 
+201331 - One-Week Medical Experience? 
+201332 - Nereid's Discovery
+201333 - At Your Service
+202010 - Leander
+202019 - Leander (Retrofit)
+202020 - Achilles
+202029 - Achilles (Retrofit)
+202030 - Ajax
+202031 - Party Queen
+202032 - Valentine's Reward?
+202039 - Ajax (Retrofit)
+202040 - Dido
+202041 - Anxious Bisque Doll
+202070 - Southampton
+202071 - New Year's Little Knight
+202072 - Afternoon Impromptu
+202080 - Sheffield
+202081 - Cloak and Dagger
+202082 - A Moment's Respite
+202083 - Black Crow's Finery
+202084 - Bulletborne
+202100 - Gloucester
+202101 - Brilliance in Purple
+202110 - Edinburgh
+202111 - The Library Fairy
+202112 - Candy Maid
+202120 - Belfast
+202121 - Iridescent Rosa
+202122 - Serene Steel
+202123 - The Noble Attendant
+202124 - Shopping with the Head Maid
+202125 - Piping-Hot Perfection
+202126 - Folded Fascination
+202128 - The Pledge of Claddagh
+202130 - Arethusa
+202140 - Galatea
+202150 - Aurora
+202151 - The Tale of Spring
+202152 - Dawn's Paean
+202153 - Heritage of Yu City
+202158 - Garb of Eternal Prosperity
+202160 - Fiji
+202161 - Trendy and Vogue?
+202170 - Jamaica
+202171 - Dark Bolt
+202172 - Highway Star
+202180 - Little Bel
+202190 - Newcastle
+202191 - Hibiscus Garments
+202199 - Newcastle (Retrofit)
+202200 - Sirius
+202201 - White Rose
+202202 - Scorching-Hot Seirios
+202203 - Azure Horizons
+202210 - Curacoa
+202211 - Eastern Grace
+202219 - Curacoa (Retrofit)
+202220 - Curlew
+202221 - Rhythm of the Dragon Empery
+202229 - Curlew (Retrofit)
+202230 - Swiftsure
+202231 - Study Hall Cyclamen
+202232 - Beauty of White Jade
+202233 - Midsummer Special Service
+202240 - Black Prince
+202241 - White Princess
+202242 - Fair Maid Spring
+202243 - Pop the Cork
+202244 - Addled Attendant?
+202250 - Sheffield μ
+202260 - Glasgow
+202261 - A Maid in Class
+202270 - Hermione 
+202271 - Pure White Angel
+202272 - Pure White Holiday
+202273 - Graceful Afternoon Tea
+202274 - Pristine Herbalist
+202280 - Dido µ
+202290 - Penelope
+202291 - Ruby-Red Boudoir
+202292 - Salty Maid
+202300 - Charybdis
+202301 - Red Chamber of Healing
+203010 - London
+203019 - London (Retrofit)
+203020 - Shropshire
+203030 - Kent
+203040 - Suffolk
+203049 - Suffolk (Retrofit)
+203050 - Norfolk
+203060 - Dorsetshire
+203070 - York
+203071 - Truth Seeker
+203072 - Summoner from the Azure Depths 
+203078 - Oath of Purity
+203079 - York (Retrofit)
+203080 - Exeter
+203081 - A Glorious Toast
+203089 - Exeter (Retrofit)
+203090 - Sussex
+203091 - Sunlit Tulips
+203092 - Wine and Red Roses
+204010 - Renown
+204020 - Repulse
+204030 - Hood
+204031 - Lady of the Shining Sun
+204032 - Porcelain Grace
+204033 - Dawnlight's Dame
+204038 - Rosey Love Poem
+204040 - Little Renown
+205010 - Queen Elizabeth
+205011 - The Queen's Ball
+205012 - One Night of the Queen
+205013 - Queen of the Campus
+205014 - Crown Jewel of the Royal Navy
+205015 - Yes, Your Maidness!
+205020 - Warspite
+205021 - Christmas Warrior
+205022 - Under Pleasure
+205029 - Warspite (Retrofit)
+205030 - Nelson
+205031 - Luna Witch
+205032 - Azure & Gold Summer Night
+205040 - Rodney
+205041 - Future Seaside Admiral
+205043 - Immaculate Beauty
+205048 - Palace of Blessings
+205050 - King George V
+205051 - Rose's Regalia
+205060 - Prince of Wales
+205061 - Sun Shining Upon Windsor
+205062 - Sakura Elegance
+205064 - The Laureate's Victory Lap
+205070 - Duke of York
+205072 - Eternal Night's Carola
+205073 - Prestige of the Glorious Formula
+205090 - Howe 
+205091 - Noble Rouge
+205092 - Pastry Princess
+205100 - Valiant 
+205101 - Mischievous Little Nurse
+205102 - Queen Valiant I
+206010 - Hermes
+206019 - Hermes (Retrofit)
+206030 - Unicorn
+206031 - Little Star Songstress
+206032 - The Gift of Spring
+206033 - Long-Awaited Date
+206034 - Prayer of Plum and Snow
+206035 - Angelic Night
+206036 - Icy-Sweet Storytime
+206038 - A Dream of Pure Vows
+206040 - Centaur
+206041 - Beachside Undine
+206042 - Sprightly Spring Wind
+206050 - Chaser
+206051 - The Way of the Dragon Empery
+206052 - Gamer Style
+206060 - Perseus 
+206061 - Unfamiliar Duties
+207010 - Eagle 
+207011 - Eagle's Clinic
+207020 - Ark Royal
+207021 - Coast Watcher
+207022 - Guardian of the Ball
+207023 - New Year's Protectress
+207028 - Pure-White Protector
+207029 - Ark Royal (Retrofit)
+207030 - Illustrious
+207031 - Never-Ending Tea Party
+207032 - Illustrious Ball
+207033 - Resplendent Hibiscus
+207035 - Maiden Lily's Radiance
+207038 - Morning Star of Love and Hope
+207040 - Victorious
+207041 - The Goddess' Day Off
+207042 - Guidance of the Spring Goddess
+207050 - Formidable
+207051 - The Lady of the Beach
+207052 - Timeless Classics
+207060 - Glorious
+207061 - Glorious School Life
+207062 - Pungent Plum
+207090 - Little Illustrious
+207110 - Illustrious μ
+213010 - Erebus
+213011 - Illusory Happiness
+213012 - Wardrobe Witchery
+213020 - Terror
+213021 - Halloween Terror
+213040 - Abercrombie
+213041 - Pumpkin Blast!
+213042 - Mischief on the Rocks
+299010 - Neptune
+299011 - Princess of the Reindeers
+299020 - Monarch
+299021 - White Warrick
+299022 - Black Gerard
+299030 - Cheshire
+299031 - Summery Date! 
+299032 - Cait Sith Crooner
+299033 - The Cat and the White Steed
+299040 - Drake
+299041 - The Golden Hind's Respite 
+301010 - Fubuki
+301011 - 5 Minutes Till I'm Late
+301012 - Mascot Bucky
+301013 - Music Pixy
+301014 - Fubuki Halation!
+301015 - Stormy Waitress-in-Training!
+301020 - Shirayuki
+301021 - Bunny Breeder
+301050 - Ayanami
+301051 - Witch in Ambush
+301053 - Rock 'n' Demon
+301054 - Lunar Demon
+301055 - Grade A Sailor Uniform
+301056 - Covert Ops Cloak
+301057 - Low-Key Idol @Confused
+301058 - Demon's Finest Dress
+301059 - Ayanami (Retrofit)
+301090 - Akatsuki
+301091 - Akatsuki Goes North
+301092 - Motoninja Akatsuki
+301093 - Santa's Lost Helper!
+301100 - Hibiki
+301101 - New Year's Little Imp
+301110 - Ikazuchi
+301111 - Sakura Tea
+301112 - Thunderous Festival
+301113 - Dawn's Thunder
+301120 - Inazuma
+301121 - Vanilla Pudding
+301122 - Flash of Fireworks
+301123 - Dusk's Lightning
+301130 - Shiratsuyu
+301131 - Is The Order A Torpedo?
+301140 - Yuudachi
+301141 - Shogun of Snowballs
+301143 - Carnivore Carnival!
+301144 - Woofy Floofy Christmas Night
+301148 - The Bride of Solomon
+301149 - Yuudachi (Retrofit)
+301150 - Shigure
+301151 - Attack, I-490!
+301152 - The Ballroom's Lucky Star
+301153 - Lucky Chocolate
+301159 - Shigure (Retrofit)
+301160 - Yukikaze
+301161 - Sovereign of the Swing
+301162 - Winter's Snowy Wind
+301168 - The Warmth of Spring
+301170 - Kagerou
+301171 - Pumpkins and Festivities!
+301179 - Kagerou (Retrofit)
+301180 - Shiranui
+301181 - Mooncake Merchant
+301189 - Shiranui (Retrofit)
+301200 - Nowaki
+301210 - Hatsuharu
+301211 - Snow Day Hatsuharu
+301212 - Hatsuharu in the Limelight
+301219 - Hatsuharu (Retrofit)
+301230 - Wakaba
+301231 - Holiday Special Wakaba!
+301232 - A Healthy Dose of Sunshine!
+301240 - Hatsushimo
+301242 - Perennial Joy
+301249 - Hatsushimo (Retrofit)
+301250 - Ariake
+301251 - Unending Friendship
+301259 - Ariake (Retrofit) 
+301260 - Yuugure
+301261 - Maid-In-Training!
+301262 - Twilight Blossom
+301263 - Evening Flower
+301264 - Summer Festival Shopping
+301269 - Yuugure (Retrofit)
+301270 - Kuroshio
+301280 - Oyashio
+301290 - Shimakaze
+301291 - World's Speediest Bunny Waitress
+301300 - Kamikaze
+301309 - Kamikaze (Retrofit)
+301310 - Matsukaze
+301319 - Matsukaze (Retrofit)
+301320 - Mutsuki
+301321 - Mr. Reindeer, Depart!
+301322 - Candy Festival!
+301323 - Spring Festival Sweets
+301329 - Mutsuki (Retrofit)
+301330 - Kisaragi
+301331 - New Year's Wish
+301339 - Kisaragi (Retrofit)
+301350 - Uzuki
+301351 - Sleepy Uzuki
+301370 - Minazuki
+301380 - Fumizuki
+301381 - Sleepy Fairy
+301390 - Nagatsuki
+301391 - Dangerous Kitty Maid?
+301410 - Mikazuki
+301411 - Sweet Zombie
+301470 - Umikaze
+301471 - Soft and Fluffy Therapy
+301480 - Yamakaze
+301481 - Now for a Magic Trick!
+301490 - Kawakaze
+301491 - Monochromatic Interlude
+301498 - Unsullied White Fox
+301540 - Kiyonami
+301541 - Festive Riding Hood?
+301560 - Niizuki
+301570 - Harutsuki
+301571 - A Dance for the Coming Spring
+301580 - Yoizuki
+301581 - Sports Festival Preparations
+301582 - Firecrackers and Steamed Buns
+301590 - Urakaze
+301591 - Seasonal Shogun
+301592 - Sengoku☆Shredder!
+301600 - Isokaze
+301601 - New Year's Campaign
+301602 - Sengoku☆Smasher!
+301610 - {namecode:128}
+301611 - The Honors Student
+301619 - Hamakaze (Retrofit)
+301620 - Tanikaze
+301621 - Lost Girl and Labyrinth Butterfly
+301629 - {namecode:127} (Retrofit)
+301630 - Asashio
+301631 - The Transfer Student Underneath the Dancing Petals
+301632 - Snow-Dusted Lynx Tips
+301633 - Robes of Dancing Clouds
+301640 - Ooshio
+301641 - The Reindeer's Present
+301642 - Woozy Party
+301643 - Bringer of Fortunes
+301644 - Let's 'ave Lunch
+301650 - Michishio
+301651 - Fluttering Fanfare
+301660 - Arashio
+301661 - The Gentlest Firework
+301720 - Uranami
+301721 - Snow Vanguard
+301790 - Hatakaze
+301800 - Makinami
+301801 - Time for School!
+301810 - Kasumi
+301811 - New Year's Comfort
+301812 - At School with Foo
+301819 - Kasumi (Retrofit)
+301820 - Hanazuki
+301821 - Morning Moon, Beachside Flower
+301822 - Blossoming Spring, Resplendent Moon
+301830 - Naganami
+301831 - Long Waves of Happiness
+301832 - Long-Awaited Warmth
+301833 - Nestling Up for the Long Nights
+301840 - Suzutsuki 
+301841 - Suzutsuki, Beachside Attendant! 
+301842 - Suzutsuki, Hanetsuki Adept!
+301850 - Oite
+301851 - Summer Dedication
+301852 - Jet Ink, Silver Quills
+301860 - Kazagumo
+301861 - After-School Melody
+302010 - Yuubari
+302019 - Yuubari (Retrofit)
+302040 - Nagara
+302041 - Spring Breeze Leisure
+302050 - Isuzu
+302051 - Night of Fairy Tale
+302052 - Cozy Christmas Eve
+302053 - Accidental Overheat?
+302059 - Isuzu (Retrofit)
+302070 - Yura
+302071 - We are Succubi?
+302080 - Kinu
+302081 - New Year's Blade Demon
+302082 - Token and Ghost
+302089 - Kinu (Retrofit)
+302090 - Abukuma
+302099 - Abukuma (Retrofit)
+302100 - Mogami
+302109 - Mogami (Retrofit)
+302110 - Mikuma
+302120 - Sendai
+302129 - Sendai (Retrofit)
+302130 - Jintsuu
+302131 - The Tactician's Vacation
+302139 - Jintsuu (Retrofit)
+302140 - Naka
+302141 - Foxy Summer Surfer
+302200 - Agano
+302201 - Christmas Eve Tease
+302202 - Dating Game?
+302203 - Blue Butterfly's Confession
+302210 - Noshiro
+302211 - Uncharted Festival Grounds?
+302212 - Xanadu's Eventide
+302213 - Fragrance of the Eastern Snow
+302214 - Cozy Enclave
+302215 - Hold the Ice
+302218 - A Tale of Two Lovers
+303010 - Furutaka
+303019 - Furutaka (Retrofit)
+303020 - Kako
+303029 - Kako (Retrofit)
+303030 - Aoba
+303040 - Kinugasa
+303060 - Chikuma
+303070 - Myoukou
+303080 - Nachi
+303090 - Ashigara
+303091 - Brief Intermission
+303092 - Kaleidoscopic Summer
+303110 - Takao
+303112 - Beach Rhapsody
+303113 - The Lessons of Spring
+303114 - School Romanza
+303115 - Full Throttle Charmer
+303118 - Sakura Hanami
+303120 - Atago
+303121 - Summer March
+303122 - Hallmarks of Winter
+303123 - School Traumerei
+303124 - Stunning Speedster
+303128 - Lily-White Vow
+303130 - Maya
+303140 - Choukai
+303141 - Tidy Store, Tidy Mind
+303170 - Suzuya
+303180 - Kumano 
+303181 - Fancy Waves 
+303182 - PJ Poker Party
+304010 - Kongou
+304011 - The Beauties of Nature
+304012 - Hospital Talent
+304013 - Breezy Commute
+304020 - Hiei
+304021 - Moonlit Cruise
+304022 - Fragrant Red Plum
+304023 - Beauty of the White Sands
+304030 - Haruna
+304031 - Free Time Before Class
+304032 - Scarlet Innocence
+304033 - The Elegant Lotus
+304040 - Kirishima
+304041 - After-School Cannon Time
+304042 - Summery Audacity
+304043 - Casual Dazzle
+304044 - Graceful Ink Incense
+304050 - Amagi
+304051 - Wending Waters, Serene Lotus
+304060 - Hiei-chan
+304070 - Amagi-chan
+305010 - Fusou
+305011 - The Celebration of Spring
+305012 - Perfect Partner?
+305019 - Fusou (Retrofit)
+305020 - Yamashiro
+305021 - Summer Offensive?
+305022 - Holiday Offensive
+305023 - Dressy Black Cat
+305024 - Sales Clerk Offensive?!
+305025 - Vacation Offensive!
+305026 - Street Corner Offensive!
+305028 - Bridal Attack!
+305029 - Yamashiro (Retrofit)
+305030 - Ise
+305039 - Ise (Retrofit)
+305040 - Hyuuga
+305049 - Hyuuga (Retrofit)
+305050 - Nagato
+305051 - Great Fox's Respite
+305052 - Guardian Fox's Shining Furisode
+305053 - Guardian Fox's Vacation
+305058 - Great Fox's White Gown
+305060 - Mutsu
+305061 - Warring States Warship
+305070 - Kaga(BB)
+305080 - Tosa
+305081 - Hometown Zest
+305110 - Mikasa
+305111 - Style of the Sakura Capital
+305112 - Blossom-Viewing Season
+305113 - Reverence for Rest and Relaxation
+305118 - Untarnished Splendor 
+305120 - Kii
+305121 - Poolside Persuasion
+305140 - Suruga
+305141 - Hundred Flowers' Auspice
+305142 - Straightfaced Model Student
+305143 - Uneventful Holiday Greetings
+306010 - Hiyou
+306020 - Junyou
+306030 - {namecode:89}
+306031 - The Dream of the Autumn Pillow
+306050 - {namecode:87}
+306051 - Patrolling Witch
+306059 - Shouhou (Retrofit)
+306060 - Ryuujou
+306061 - Slacking Samurai
+306062 - Dragon Hunter: Ryuujou's Rise
+306070 - Ryuuhou
+306071 - Firebird's New Year Dance
+306080 - Chitose
+306081 - Summer Shine
+306090 - Chiyoda
+306091 - Shimmering Surf
+307010 - Akagi
+307011 - Paradise Amaryllis
+307012 - Plum and Snow
+307013 - Ruby-Laced Beauty
+307014 - Dawn-Phoenix's Summons
+307018 - Deep Crimson Poppy
+307020 - Kaga
+307021 - Everlasting Killing Stone
+307022 - White Fox's New Year
+307023 - Exalted White Wings
+307024 - Gentle Blossom's Sigh
+307025 - Dusk-Simurgh's Vigil
+307028 - Sacred Blue Lily
+307030 - Souryuu
+307031 - The Crane Amidst the Pines
+307032 - The Counselor Girl
+307039 - Souryuu (Retrofit)
+307040 - Hiryuu
+307041 - After School Bullies
+307049 - Hiryuu (Retrofit)
+307050 - Shoukaku
+307051 - The Crane that Dances With the Wind
+307052 - Sororal Wings
+307060 - Zuikaku
+307061 - Ceremonial Crane
+307062 - The Wind's True Name
+307070 - Taihou
+307071 - Forbidden Fruit
+307072 - Phoenix's Spring Song
+307073 - Enraptured Companion
+307078 - Temptation on the Sea Breeze
+307080 - Shinano 
+307081 - Dreams of the Hazy Moon
+307090 - Akagi-chan
+307100 - Akagi μ
+307110 - Taihou μ
+307120 - Katsuragi
+307121 - Night-Illuminating Festival
+308010 - I-19
+308011 - Departure's Gentle Breeze
+308012 - Pillowy Paradise
+308013 - Blossoming Bunny
+308020 - I-26
+308021 - Deep-Sea Rabbit
+308022 - Shortly Before the Fireworks
+308030 - I-58
+308040 - I-25
+308041 - Coral Reef Bunny
+308042 - Sweet Wine of Celebration
+308050 - I-56
+308051 - Wallflower in the Corner
+308060 - I-168
+308061 - Festive Mood!
+312010 - Akashi
+312011 - Akashi's in the Red, Nya!
+312012 - The Black Cat Cometh!
+312013 - Welcome to AzurCon!
+312014 - Welcome to Sofmap!
+312018 - White Cat's Repayment 
+317010 - I-13
+319010 - Kashino
+319011 - Hot Springs Relaxation
+331050 - Pulse of the New Year
+331051 - Nightfall Raiment
+331052 - Off-Duty Battle Station Gear
+331053 - Dynasty Shipgirl
+399010 - Ibuki
+399011 - Winter Sylph's Reverie
+399012 - Snow on the Wind
+399013 - Arrival of Spring
+399014 - Tranquil Sunya
+399020 - Izumo
+399021 - Izumo's Thousand Cherry Trees
+399030 - Kitakaze
+399031 - Celebration Conquest!
+399040 - Azuma
+399041 - Soft Voice of Spring
+399048 - Lily-White Longing
+399050 - Hakuryuu
+399051 - Slice, Dice, and Serve
+401010 - Leberecht Maass (Z1)
+401011 - \"Rebellious\" Top Student
+401019 - Z1 (Retrofit)
+401020 - Z2
+401021 - High-Rise, High-Style
+401022 - Of Koi and Evening Hues
+401180 - Z18
+401190 - Hermann Künne (Z19)
+401200 - Karl Galster (Z20)
+401210 - Wilhelm Heidkamp (Z21)
+401230 - Z23
+401231 - Philosophy Sensei
+401232 - Breezy Doubles
+401233 - Perfect Smile?
+401234 - The Banquet's Honor Student
+401235 - Café Trainee @New Base
+401236 - Serious Idol @Acting Manager?!
+401237 - The Eyecatch in the Rye?
+401238 - Schwarze Hochzeit
+401239 - Z23 (Retrofit)
+401240 - Z24
+401241 - Festival-going Fiend
+401250 - Z25
+401251 - Hot Summer's Cool Breeze
+401260 - Z26
+401261 - Sharing is Caring 
+401280 - Z28
+401281 - New Year Smorgasbord!
+401350 - Z35
+401351 - Projekt Kirschblüte
+401360 - Z36
+401460 - Z46
+401461 - Her First Summer
+401462 - Girls' Relay
+401463 - Star-Lit★Chocolate
+401464 - Jianzhi Fantasia
+401465 - Chronicles of the Dust Wars
+402010 - Königsberg
+402020 - Karlsruhe
+402029 - Karlsruhe (Retrofit)
+402030 - Köln
+402039 - Köln (Retrofit)
+402040 - Leipzig
+402041 - Storefront Training
+402049 - Leipzig (Retrofit)
+402050 - Nürnberg
+402051 - Spring Wanderer
+402060 - Magdeburg
+402061 - Cat Café Cleanup
+402070 - Emden
+402071 - White-Black Partita
+402080 - Elbing
+402081 - The Throne of Misfortune
+403010 - Admiral Hipper
+403012 - Sunshine by the Hot Spring
+403030 - Prinz Eugen
+403031 - Unfading Smile
+403032 - Profusion of Flowers
+403033 - Cordial Cornflower
+403034 - Final Lap
+403038 - Symphonic Fate
+403040 - Deutschland
+403041 - Dark Demon Princess
+403042 - Service Time?!
+403043 - Demon Princess' Dark Hour Banquet
+403044 - Lantern-Lit Ruler
+403050 - Admiral Graf Spee
+403051 - Girl's Sunday
+403052 - Peaceful Daily Life
+403053 - A Novel Anniversary
+403054 - World's♥Cutest
+403070 - Admiral Hipper μ
+403080 - Roon μ
+403090 - Prinz Heinrich
+403091 - Fireworks and Tapestries
+403100 - Prinz Adalbert
+403101 - After-Hours Service
+403110 - Yorck
+403111 - Breaker under the Blood Moon
+403120 - Little Prinz Eugen
+404010 - Scharnhorst
+404011 - Panther und Pflaume
+404020 - Gneisenau
+404021 - Nightmarish Succubus
+404030 - Seydlitz
+404031 - Heir of the Vampire Killer
+404040 - Lützow
+404041 - Everlasting Blood Banquet
+405010 - Bismarck
+405011 - Beacon of the Iron Blood
+405012 - Iron-Black Elysium
+405020 - Tirpitz
+405021 - Snow-Melting Summer
+405022 - Iron Blood Snowstorm
+405023 - Seasonal Pine and the Frost Flower
+405030 - Ulrich von Hutten
+405031 - Mayhem Maid
+405040 - Thüringen
+405041 - Tidying in the Moonlight
+406010 - Weser
+406011 - Obsidian Elegance
+406012 - Urbane Onyx
+406020 - Elbe
+406021 - Time to Show Off?
+407010 - Graf Zeppelin
+407011 - Beachside Urd
+407020 - Zeppy
+407030 - Peter Strasser
+407031 - Chronos's Kalendae
+407032 - A Moment Frozen in Pure White
+408010 - U81
+408011 - Soft Serenade
+408020 - U-47
+408021 - Rookie Rider
+408022 - Eigenen Raum
+408023 - Urban Maid
+408024 - Sanguine Moon Sojourn
+408030 - U-557
+408040 - U-556
+408041 - Party Knight!
+408050 - U-73
+408051 - Science Rules!
+408052 - New Year's Chemistry
+408060 - U-101
+408061 - Ironbrass Trombonist
+408070 - U-522
+408080 - U-110
+408081 - Kleiner Hai
+408082 - A Cute, Sharky Reverie
+408083 - Garnished Supershark
+408084 - New Year, Small Shark
+408090 - U-96
+408091 - Secret Gaming Session 
+408100 - U-37
+408101 - New Year's Nightingale
+408110 - U-410
+408111 - Spring Festival Scheme
+408120 - U-1206
+408121 - Maid Just for You
+431230 - Keeper of the Comf-Fort
+499010 - Roon
+499011 - Dark Red Grin
+499020 - Friedrich der Große
+499021 - Dark Raiments of Gagaku
+499028 - Zeremonie of the Cradle
+499030 - Mainz
+499040 - Odin
+499041 - Black Strokes upon Blank Snow
+499050 - Ägir
+499060 - August von Parseval
+499061 - The Conquered Unhulde
+501010 - An Shan
+501012 - Setting Sun, Hearts as One
+501019 - An Shan (Retrofit)
+501020 - Fu Shun
+501030 - Chang Chun
+501031 - The Joy of Spring
+501039 - Chang Chun (Retrofit)
+501040 - Tai Yuan
+501041 - The Golden Dragon's Festivities
+502010 - Yat Sen
+502018 - Coronal Afterglow
+502020 - Ning Hai
+502021 - Summer Hunger
+502022 - Moon Palace Rabbit
+502023 - Dragon Sisters! -N
+502024 - Springtime Sojourn
+502025 - Gorgeous Violet
+502026 - Da Bao's Friend!
+502029 - Ning Hai (Retrofit)
+502030 - Ping Hai
+502031 - Summer Vacation
+502032 - Osmanthus Moon Rabbit
+502033 - Dragon Sisters! -P
+502034 - Great Gourmet Expedition
+502035 - Delicious Crimson
+502036 - Baobao's Buddy!
+502039 - Ping Hai (Retrofit)
+502040 - Ying Swei
+502041 - Snowy Pine's Warmth
+502050 - Chao Ho
+502051 - Plum Blossom's Illumination
+502070 - Hai Tien
+502071 - Verse-Weaver at the Water's Edge
+502080 - Hai Chi
+502081 - A Dance Among the Lotuses
+506010 - Chen Hai
+506011 - Vestibule of Wonders
+520000 - 导驱type20测试机
+521000 - 导驱type21测试机
+601020 - Carabiniere
+601021 - Refreshing Sundress
+601030 - Vincenzo Gioberti 
+601032 - Fair Lady's Invitation
+601040 - Maestrale
+601041 - Lonesome Beachfarer
+601050 - Libeccio
+601051 - Beachbound Southwestern Wind!
+601060 - Nicoloso da Recco
+601061 - To a Smashing Voyage!
+601070 - Pompeo Magno
+601071 - Quaver Daydream
+602010 - Duca degli Abruzzi
+602011 - Lustrous Onyx Sirenetta
+603010 - Trento
+603011 - Summer's Hotness?
+603020 - Zara
+603021 - Poolside Coincidence
+603030 - Pola 
+603031 - Seaside Coincidence
+603040 - Trieste
+603041 - Rooftop Lunch Break
+605010 - Vittorio Veneto
+605011 - The Flower of La Spezia
+605020 - Littorio
+605021 - The Glory of Naples
+605022 - Calabria Aurea
+605023 - Lounging Emerald
+605050 - Conte di Cavour
+605051 - Fierce Beachside Battle
+605060 - Giulio Cesare
+605061 - Fitness Master
+605062 - High Tide Under the Sunlight
+607010 - Aquila
+607011 - Sardegnian Shallows and Sunshine
+607012 - A Sip of Sardegnian Elegance
+607020 - Impero
+607021 - Languid Librarian
+608010 - Torricelli
+608011 - Shady Seaside
+699010 - Marco Polo
+699011 - The Queen of Hearts
+701020 - Grozny
+701021 - Bad Bunny Behind Bars
+701022 - Bunny Remodeling Plan?
+701023 - Shadowy Syndicate Showdown
+701030 - Minsk
+701031 - Thunderous Jailor
+701040 - Tashkent
+701041 - The Bound Cruiser
+701042 - The Blue Snoozer
+701050 - Tashkent μ
+701060 - Stremitelny 
+701061 - No Snow No Life
+701070 - Gremyashchy
+701071 - A Daytime Delight is in a Book
+701080 - Gromky
+701081 - Morning's Beckoning
+701090 - Soobrazitelny
+701091 - The Machinery of Life
+701100 - Kiev
+701101 - Backstreet Silver Sonata
+702010 - Avrora
+702011 - Shackled Saule
+702012 - Not Cut Out For This?
+702020 - Pamiat Merkuria
+702021 - Caged Minx
+702022 - Sweet Cherry Memories
+702029 - Pamiat‘ Merkuria (Retrofit)
+702030 - Chapayev
+702031 - The Captive Cavalier
+702032 - White Cavalier's Respite
+702033 - Indigo & Lantern-Lit Summer Night
+702040 - Kirov
+702041 - Blend R
+702042 - Drifting Justice
+702060 - Murmansk
+702061 - Sceneries of Pure Snow
+703010 - Tallinn
+703011 - Nostalgic Pilsner
+703012 - As You Say, Ma'am!
+705010 - Gangut
+705011 - Imposing Warden
+705012 - Keeper of the Firewater
+705040 - Sovetskaya Belorussiya
+705041 - Relaxation Stratagem
+705050 - Sovetskaya Rossiya
+705051 - The Lackadaisical Lookout
+705060 - Arkhangelsk
+705061 - Grandiose Getaway
+707010 - Volga
+707011 - An Irresistible AR Adventure
+718010 - Kronshtadt
+718011 - Begin the Rush!
+801010 - Le Triomphant
+801020 - Forbin
+801021 - Fleur Blanche
+801022 - École de Chevalier
+801023 - Feast of Champagne
+801029 - Forbin (Retrofit)
+801030 - Le Téméraire
+801031 - Summery Temeraire!
+801032 - Dreamy Dolce
+801040 - L'Opiniâtre
+801041 - Beachside Magician
+801070 - Le Terrible
+801071 - Silence, Slumber, and Solace
+801080 - Maillé Brézé
+801081 - The Noble Knight's Last Stand
+802010 - Émile Bertin
+802011 - Côte d'Azur
+802012 - Maid Fantastique
+802013 - Gilded Dance
+802019 - Émile Bertin (Retrofit)
+802020 - Jeanne d'Arc
+802021 - Saintess of the Sea
+805010 - Richelieu
+805011 - Fleuron of the Waves
+805012 - Evergreen Prophecy
+807010 - Béarn
+807011 - Summer Lifeguard
+808010 - Surcouf
+808011 - Shopping Time!
+808012 - Loisirs Balnéaires
+899010 - Saint Louis
+899011 - Holy Knight's Resplendence
+899012 - Alluring Administrator
+899020 - Champagne
+899021 - Lapis Lazuli's First Dream
+900001 - Königsberg
+900002 - Karlsruhe
+900003 - Köln
+900004 - Suffolk
+900005 - Norfolk
+900006 - Hood
+900007 - Prince of Wales
+900008 - Ark Royal
+900009 - Prinz Eugen
+900010 - Bismarck
+900011 - ?????
+900012 - ?????
+900013 - Tone
+900014 - Kirishima
+900015 - Mogami
+900016 - Atago
+900017 - Kongou
+900020 - Yat Sen
+900021 - ?????
+900022 - Ning Hai
+900023 - Ping Hai
+900024 - Yat Sen
+900027 - {namecode:95}
+900028 - {namecode:96}
+900032 - Yat Sen
+900033 - Akashi
+900040 - Ayanami
+900041 - Takao
+900042 - Atago
+900043 - Shoukaku
+900044 - Zuikaku
+900045 - Mikasa
+900046 - Hiei
+900050 - Mikasa
+900051 - Hiei
+900052 - Richelieu
+900053 - Jeanne
+900054 - Richelieu
+900055 - Jean Bart
+900070 - Enterprise
+900071 - ?????
+900072 - Enterprise
+900076 - Blanc
+900077 - Vert
+900079 - Glorious
+900130 - Great Fox's Respite
+900132 - Helena
+900133 - North Carolina
+900134 - Washington
+900135 - ？？？？？
+900136 - Observer zero
+900161 - Warspite
+900162 - Chang Chun
+900179 - Kizuna AI
+900180 - U-556
+900181 - U-556
+900182 - U-556
+900183 - Cat
+900184 - Enterprise
+900185 - Denver
+900186 - Columbia
+900187 - Montpelier
+900188 - Cleveland
+900189 - Takao
+900190 - Enterprise
+900191 - empress
+900192 - Takao
+900193 - Baltimore
+900194 - Hornet
+900195 - Kitakaze
+900196 - Kitakaze
+900197 - Pola
+900198 - Vittorio Veneto
+900199 - Warspite Retrofit
+900200 - Suruga
+900201 - ？？？
+900202 - ？？？
+900203 - Gascogne μ
+900204 - Akagi μ
+900205 - Cleveland μ
+900206 - Admiral Hipper μ
+900207 - Sheffield μ
+900208 - Hornet
+900209 - Shirakami Fubuki
+900210 - Tokino Sora
+900211 - Minato Aqua
+900212 - Natsuiro Matsuri
+900213 - Nakiri Ayame
+900214 - Murasaki Shion
+900215 - Ookami Mio
+900216 - Dido
+900217 - Kirov
+900218 - Sovetsky Soyuz
+900219 - Omitter
+900220 - ？？？
+900221 - ？？？
+900222 - ？？？
+900223 - ？？？
+900224 - ？？？
+900225 - ？？？
+900226 - ？？？
+900227 - ？？？
+900228 - ？？？
+900229 - ？？？
+900230 - Compiler 
+900231 - Purifier 
+900232 - Observer 
+900233 - Purifier 
+900234 - ？？？
+900235 - Universal Bulin
+900236 - Vauquelin
+900237 - Le Terrible
+900238 - Algérie?
+900239 - Jean Bart
+900240 - Laffey
+900241 - Javelin
+900242 - Z23
+900243 - {namecode:6}
+900244 - Tirpitz
+900245 - Graf Zeppelin
+900246 - Gneisenau
+900247 - {namecode:95}
+900248 - {namecode:96}
+900249 - Yamashiro (Retrofit)
+900250 - North Carolina
+900251 - Washington
+900252 - Enterprise
+900253 - Duke of York
+900254 - Victorious
+900255 - {namecode:82}
+900256 - Massachusetts
+900257 - Hood
+900258 - Ark Royal
+900259 - {namecode:91}
+900260 - {namecode:92}
+900261 - Renown
+900262 - King George V
+900263 - Warspite
+900264 - Illustrious
+900265 - Formidable
+900266 - Sovetskaya Rossiya
+900267 - Gangut
+900268 - Saratoga
+900269 - Essex
+900270 - Intrepid
+900271 - Bunker Hill
+900272 - Kaga
+900273 - Béarn
+900274 - Howe
+900275 - Valiant
+900276 - Perseus
+900277 - Eagle
+900278 - {namecode:74}
+900279 - Ranger
+900280 - {namecode:92}
+900281 - {namecode:89}
+900282 - Rodney
+900283 - {namecode:79}
+900284 - TB 
+900285 - Arbiter: Strength VIII
+900286 - Arbiter: Temperance XIV
+900287 - Arbiter: The Hermit IX
+900295 - Yorktown
+900296 - Enterprise
+900297 - Hornet
+900298 - {namecode:161}
+900300 - Marie Rose 
+900301 - Honoka 
+900302 - Kasumi 
+900303 - Misaki 
+900304 - Nagisa 
+900305 - Nyotengu 
+900306 - Monica 
+900307 - Aoste 
+900308 - Anzeel 
+900309 - ？？？
+900310 - Universal Enhanced Rigging (Experimental) +α
+900311 - Prototype Bulin MKII
+900312 - Suffolk
+900313 - ？？？
+900314 - Souryuu META'
+900315 - Helena META
+900316 - Yorktown META
+900317 - San Francisco 
+900318 - Roon
+900319 - Scharnhorst
+900320 - Arbiter: The Lovers VI
+900321 - ？？？
+900322 - Bon Homme Richard
+900323 - ？
+900350 - {namecode:39}
+900351 - {namecode:199}
+901010 - Le Mars
+901011 - Été Brillant
+901012 - Écolière Heureuse
+901019 - Le Mars (Retrofit)
+901020 - Tartu
+901021 - Overthinking Summer
+901030 - Vauquelin
+901031 - Innocent Summer Knight
+901032 - One-Girl Orchestra
+901110 - Le Malin
+901111 - Sleepy Sunday
+901112 - Mercredi at the Secret Base
+901113 - Listless Lapin
+901120 - Le Malin μ
+902010 - La Galissonnière
+902011 - Pristine Piscene
+902012 - Lush Spring Dreams
+902013 - Black Cat of All Hallows' Eve
+903010 - Foch
+903011 - Rainbow Rendezvous
+903020 - Algérie
+903021 - White Sand Paradise
+904010 - Dunkerque
+904011 - Summer Sucré
+904012 - Afternoon Venus
+905010 - Jean Bart
+905011 - Uninhibited Bloodstone
+905012 - Private Après Midi
+905013 - First Snow Upon the Cutlass's Edge
+905030 - Gascogne μ
+999010 - Gascogne
+999011 - Tropical Environs Acclimation Service Equipment
+9702010 - Helena META
+9704010 - Gneisenau META
+9704020 - Scharnhorst META
+9705010 - Fusou META
+9705020 - Yamashiro META
+9706010 - Hiyou META
+9706020 - Junyou META
+9707010 - Hiryuu META
+9707020 - Ark Royal META
+9707030 - Souryuu META
+10100010 - Neptune
+10100020 - Noire
+10100030 - Blanc
+10100040 - Vert
+10100050 - Purple Heart
+10100051 - Goddesses' Promise
+10100060 - Black Heart
+10100061 - Goddesses' Smile
+10100070 - White Heart
+10100071 - Goddesses' Humility
+10100080 - Green Heart
+10100081 - Goddesses' Moment
+10400010 - Kizuna AI
+10400011 - Festive Kizuna AI
+10400020 - Elegant Kizuna AI
+10400030 - Anniversary Kizuna AI
+10400040 - Super Gamer Kizuna AI
+10500010 - Shirakami Fubuki
+10500011 - Beachside Fox
+10500020 - Tokino Sora
+10500021 - Under the Clear Sky
+10500030 - Minato Aqua
+10500031 - Marine Maid
+10500040 - Natsuiro Matsuri
+10500041 - Matsuri's Day Off
+10500050 - Nakiri Ayame
+10500051 - Summertime Nakiri
+10500060 - Murasaki Shion
+10500061 - Virtual Magician
+10500070 - Ookami Mio
+10500071 - Summer Vacation
+10600010 - Marie Rose
+10600011 - Devilish Servant Against the Splashing Waves
+10600020 - Honoka
+10600021 - Summer Angel on the Shore
+10600030 - Kasumi
+10600031 - Springside Mist
+10600040 - Misaki
+10600041 - Golden Photoshoot
+10600050 - Nagisa
+10600051 - Blue Skies, Good Vibes
+10600060 - Nyotengu
+10600061 - Scarlet-Tinged Hot Spring Vacation
+10600070 - Monica
+10600071 - The Ace of Hearts
+10700010 - Haruka Amami
+10700011 - A Taste of Tranquility
+10700020 - Chihaya Kisaragi
+10700021 - Reflections of Heavenly Flowers
+10700030 - Iori Minase
+10700031 - A Little Evening Secret
+10700040 - Azusa Miura
+10700041 - Midsummer Relaxation
+10700050 - Ritsuko Akizuki
+10700051 - Paddle Showdown - Summer Formation
+10700060 - Ami Futami
+10700061 - Summer Flowers and Sizzling Beats
+10700070 - Mami Futami
+10700071 - Alluring Festival
+10800010 - Rikka Takarada
+10800011 - Blue Sky Station
+10800020 - Akane Shinjo
+10800021 - A Vacation Just for Two
+10800030 - Hass
+10800031 - Seaside Scoop!
+10800040 - Namiko
+10800041 - Miss Street-Wise
+10800050 - Yume Minami
+10800051 - A Dream Upon an Open Windowsill
+10800060 - Chise Asukagawa
+10800061 - Together, Swimming through the Sky
+10800070 - Mujina
+10800071 - Golden Promenade
